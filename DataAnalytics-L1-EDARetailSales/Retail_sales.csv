@@ -1,0 +1,1000 @@
+transaction_id,transaction_date,customer_id,gender,Age,product_name,category,quantity,unit_price,sales,payment_method,sales_channel
+T0000001,4/24/2024,C000820,Male,34,Dumbbells,Sports,2,313.53,627.06,Debit Card,Online
+T0000002,7/12/2025,C002849,Male,26,Running Shoes,Sports,1,366.16,366.16,Credit Card,Online
+T0000003,6/1/2025,C019727,Male,50,Sneakers,Clothing,1,27.99,27.99,Gift Card,In-Store
+T0000004,8/26/2025,C009116,Male,37,Sunscreen,Beauty,2,102.01,204.02,Cash,In-Store
+T0000005,12/10/2024,C003350,Male,30,Sneakers,Clothing,1,259.55,259.55,Cash,In-Store
+T0000006,2/14/2024,C023912,Female,45,Bread,Groceries,1,474.7,474.7,PayPal,Online
+T0000007,10/5/2025,C020268,Female,46,Rice,Groceries,1,53.35,53.35,Credit Card,Online
+T0000008,10/23/2024,C002615,Male,30,Board Game,Toys,4,17.58,70.32,Cash,In-Store
+T0000009,1/14/2025,C011642,Male,63,Jeans,Clothing,1,307.87,307.87,Gift Card,Mobile App
+T0000010,9/7/2024,C005355,Female,52,Cookware Set,Home,1,41.9,41.9,Gift Card,Online
+T0000011,2/27/2024,C007506,Male,23,Novel,Books,4,379,1516,Cash,Online
+T0000012,8/3/2025,C023525,Female,35,Textbook,Books,1,402.82,402.82,PayPal,Mobile App
+T0000013,9/28/2024,C004576,Male,22,Jeans,Clothing,1,218.81,218.81,Gift Card,In-Store
+T0000014,1/5/2025,C007187,Male,64,Lipstick,Beauty,2,388.69,777.38,Credit Card,Online
+T0000015,10/4/2025,C005243,Male,42,Jeans,Clothing,1,149.16,149.16,PayPal,In-Store
+T0000016,6/25/2025,C008239,Male,19,Sunscreen,Beauty,3,166.04,498.12,Gift Card,In-Store
+T0000017,10/27/2024,C014247,Male,27,Bluetooth Speaker,Electronics,1,95,95,Cash,Mobile App
+T0000018,4/18/2024,C020490,Female,47,Lamp,Home,5,144.06,720.3,Debit Card,In-Store
+T0000019,6/27/2025,C000019,Male,62,Storage Box,Home,2,493.51,987.02,Credit Card,Online
+T0000020,11/10/2024,C007847,Male,22,Notebook,Books,1,465.2,465.2,Credit Card,Mobile App
+T0000021,3/11/2024,C024924,Male,50,Building Blocks,Toys,1,454.25,454.25,PayPal,Mobile App
+T0000022,6/24/2025,C019877,Female,18,Bread,Groceries,2,474.7,949.4,Cash,In-Store
+T0000023,6/13/2025,C014795,Male,35,Perfume,Beauty,1,48.8,48.8,Credit Card,In-Store
+T0000024,7/21/2025,C007541,Male,49,Yoga Mat,Sports,1,365.86,365.86,Credit Card,Mobile App
+T0000025,3/10/2024,C001030,Female,64,Sneakers,Clothing,1,27.99,27.99,Cash,Mobile App
+T0000026,7/6/2025,C004336,Male,28,Sneakers,Clothing,2,259.55,519.1,Debit Card,In-Store
+T0000027,4/6/2024,C003177,Male,38,Dress,Clothing,1,230.75,230.75,PayPal,In-Store
+T0000028,2/25/2024,C022065,Male,43,Cookbook,Books,2,148.43,296.86,PayPal,Mobile App
+T0000029,4/21/2024,C008148,Male,42,Building Blocks,Toys,2,160.61,321.22,Debit Card,In-Store
+T0000030,4/18/2025,C008186,Male,39,Bread,Groceries,4,405.16,1620.64,Credit Card,Mobile App
+T0000031,1/16/2024,C003057,Male,44,Novel,Books,1,379,379,PayPal,In-Store
+T0000032,2/14/2025,C001922,Male,30,Cookbook,Books,4,148.43,593.72,PayPal,In-Store
+T0000033,3/9/2025,C022826,Male,50,Rice,Groceries,1,155.78,155.78,Debit Card,Online
+T0000034,2/29/2024,C018979,Male,51,Sneakers,Clothing,2,259.55,519.1,Cash,Online
+T0000035,5/3/2025,C016478,Male,58,Towel,Home,1,354.89,354.89,Gift Card,Online
+T0000036,9/1/2025,C002227,Male,52,Laptop,Electronics,1,302.55,302.55,Credit Card,Mobile App
+T0000037,8/31/2025,C001303,Male,18,Towel,Home,3,354.89,1064.67,Gift Card,Mobile App
+T0000038,9/24/2024,C006694,Male,38,Coffee,Groceries,1,65.41,65.41,Cash,In-Store
+T0000039,10/22/2025,C009831,Female,23,Running Shoes,Sports,2,165.97,331.94,Credit Card,In-Store
+T0000040,4/12/2024,C002401,Male,45,Towel,Home,3,7.73,23.19,Debit Card,In-Store
+T0000041,9/7/2024,C012109,Female,34,Notebook,Books,2,465.2,930.4,Gift Card,Mobile App
+T0000042,10/31/2025,C017333,Male,22,Football,Sports,1,182.44,182.44,Credit Card,Online
+T0000043,4/19/2024,C024328,Male,48,Bluetooth Speaker,Electronics,2,95,190,Cash,Mobile App
+T0000044,12/17/2024,C006672,Male,22,Puzzle,Toys,1,358.06,358.06,Cash,Online
+T0000045,3/9/2025,C009067,Male,55,Dumbbells,Sports,1,313.53,313.53,Debit Card,Mobile App
+T0000046,3/28/2025,C018078,Male,20,Jeans,Clothing,1,307.87,307.87,Credit Card,Online
+T0000047,2/6/2024,C012099,Male,40,Storage Box,Home,2,493.51,987.02,PayPal,Online
+T0000048,1/8/2025,C001308,Female,54,Coffee,Groceries,2,222.88,445.76,Credit Card,In-Store
+T0000049,2/20/2025,C020338,Male,54,Notebook,Books,1,405.02,405.02,Debit Card,Online
+T0000050,7/2/2024,C024136,Female,27,Headphones,Electronics,2,301.34,602.68,Cash,Online
+T0000051,2/9/2024,C015424,Male,27,Moisturizer,Beauty,2,275.62,551.24,Cash,In-Store
+T0000052,1/25/2024,C021628,Male,36,Sneakers,Clothing,1,298.25,298.25,Cash,Online
+T0000053,10/18/2025,C016693,Female,34,Cereal,Groceries,1,133.1,133.1,Credit Card,Online
+T0000054,8/17/2025,C008699,Male,38,Jacket,Clothing,5,149.61,748.05,Cash,Mobile App
+T0000055,9/12/2025,C016759,Male,31,Perfume,Beauty,3,461.33,1383.99,Cash,Online
+T0000056,6/16/2025,C017644,Male,26,Smartphone,Electronics,2,190.4,380.8,PayPal,Online
+T0000057,11/17/2024,C021738,Male,63,Football,Sports,1,62.36,62.36,PayPal,In-Store
+T0000058,10/29/2024,C018167,Male,18,Water Bottle,Sports,1,238.75,238.75,PayPal,Mobile App
+T0000059,8/5/2025,C009862,Female,62,Football,Sports,1,182.44,182.44,Cash,In-Store
+T0000060,8/16/2025,C019880,Male,30,Perfume,Beauty,2,461.33,922.66,PayPal,In-Store
+T0000061,4/29/2025,C024116,Male,21,Lamp,Home,4,273.63,1094.52,Gift Card,Mobile App
+T0000062,4/5/2024,C024614,Male,18,Cereal,Groceries,3,22.02,66.06,Debit Card,Online
+T0000063,9/7/2024,C015570,Male,57,Headphones,Electronics,1,82.22,82.22,PayPal,Mobile App
+T0000064,12/14/2025,C012583,Female,49,Dress,Clothing,1,230.75,230.75,Debit Card,Mobile App
+T0000065,4/19/2024,C013932,Male,51,Textbook,Books,4,318.53,1274.12,Credit Card,Mobile App
+T0000066,5/4/2024,C014958,Male,45,Children Book,Books,1,97.35,97.35,PayPal,Mobile App
+T0000067,7/15/2025,C014612,Male,48,Perfume,Beauty,3,300.96,902.88,Cash,Online
+T0000068,6/17/2025,C015880,Male,25,Board Game,Toys,1,17.58,17.58,PayPal,Online
+T0000069,10/5/2024,C011006,Female,56,Milk,Groceries,4,305.73,1222.92,Debit Card,Online
+T0000070,12/11/2025,C005008,Male,43,Moisturizer,Beauty,1,96.5,96.5,PayPal,In-Store
+T0000071,4/22/2025,C013625,Male,51,Storage Box,Home,2,493.51,987.02,PayPal,Mobile App
+T0000072,8/12/2025,C012465,Female,20,Cookbook,Books,1,43.11,43.11,Cash,In-Store
+T0000073,7/13/2025,C019768,Male,29,Cookware Set,Home,3,41.9,125.7,Cash,In-Store
+T0000074,2/2/2025,C011015,Male,18,Headphones,Electronics,2,301.34,602.68,PayPal,Online
+T0000075,1/28/2024,C012912,Male,61,Cookware Set,Home,1,41.9,41.9,Credit Card,Mobile App
+T0000076,4/17/2025,C005955,Male,22,T-Shirt,Clothing,2,264.75,529.5,Cash,Online
+T0000077,12/11/2024,C024944,Female,47,Coffee,Groceries,3,250.11,750.33,Cash,Online
+T0000078,7/6/2025,C001707,Female,47,Smartphone,Electronics,1,367.34,367.34,Credit Card,Online
+T0000079,1/21/2024,C020360,Male,34,Dress,Clothing,2,393.66,787.32,PayPal,Mobile App
+T0000080,8/11/2024,C015239,Male,64,Towel,Home,2,7.73,15.46,Debit Card,Mobile App
+T0000081,4/27/2024,C005367,Female,40,Toy Car,Toys,3,249.43,748.29,Cash,Mobile App
+T0000082,7/22/2024,C002491,Male,32,Moisturizer,Beauty,1,484.94,484.94,Cash,Mobile App
+T0000083,5/3/2024,C018545,Male,54,Building Blocks,Toys,1,256.74,256.74,Cash,Online
+T0000084,12/15/2024,C000415,Female,38,Dumbbells,Sports,1,168.79,168.79,PayPal,In-Store
+T0000085,6/5/2024,C014271,Male,31,Puzzle,Toys,1,64.2,64.2,Gift Card,Mobile App
+T0000086,3/22/2025,C023955,Male,19,Sunscreen,Beauty,1,166.04,166.04,Debit Card,Online
+T0000087,4/6/2025,C007991,Female,28,Notebook,Books,2,465.2,930.4,Cash,Online
+T0000088,11/28/2024,C005959,Female,56,Cookbook,Books,1,118.26,118.26,Cash,In-Store
+T0000089,9/2/2025,C022977,Female,55,Notebook,Books,2,465.2,930.4,Gift Card,Online
+T0000090,2/20/2025,C016010,Male,51,Milk,Groceries,2,305.73,611.46,PayPal,In-Store
+T0000091,10/28/2024,C007262,Female,55,Smartwatch,Electronics,1,485.11,485.11,Gift Card,In-Store
+T0000092,6/27/2025,C011265,Female,51,Storage Box,Home,1,387.26,387.26,Cash,Mobile App
+T0000093,11/9/2024,C008238,Male,35,Bread,Groceries,2,482.99,965.98,Cash,Online
+T0000094,12/7/2025,C006067,Male,47,Board Game,Toys,1,216.63,216.63,Cash,Mobile App
+T0000095,6/21/2025,C019556,Female,32,Board Game,Toys,2,216.63,433.26,Cash,Online
+T0000096,11/5/2024,C000464,Male,44,Jacket,Clothing,1,149.61,149.61,Cash,Online
+T0000097,10/26/2024,C022853,Male,51,Storage Box,Home,1,387.26,387.26,Credit Card,Mobile App
+T0000098,5/5/2025,C014434,Female,55,Bedsheet,Home,2,197.4,394.8,Cash,In-Store
+T0000099,3/7/2024,C013131,Female,50,Novel,Books,1,128.4,128.4,Debit Card,Online
+T0000100,3/28/2024,C008133,Male,41,Rice,Groceries,1,343.7,343.7,Gift Card,Mobile App
+T0000101,6/19/2025,C012465,Female,32,Sneakers,Clothing,1,298.25,298.25,Gift Card,In-Store
+T0000102,9/27/2025,C001974,Male,47,Towel,Home,2,7.73,15.46,Debit Card,In-Store
+T0000103,9/2/2024,C005696,Male,59,Jeans,Clothing,4,307.87,1231.48,Credit Card,In-Store
+T0000104,8/31/2025,C015399,Female,34,Water Bottle,Sports,1,444.17,444.17,Cash,Mobile App
+T0000105,4/9/2025,C002333,Male,22,Water Bottle,Sports,1,238.75,238.75,Gift Card,Mobile App
+T0000106,4/27/2024,C017845,Male,46,Perfume,Beauty,1,300.96,300.96,Debit Card,Online
+T0000107,11/10/2024,C019499,Male,21,Jacket,Clothing,1,74.05,74.05,PayPal,Online
+T0000108,11/7/2024,C022929,Female,27,Water Bottle,Sports,1,444.17,444.17,PayPal,Online
+T0000109,3/18/2025,C024070,Female,34,Headphones,Electronics,3,82.22,246.66,Credit Card,Online
+T0000110,8/12/2025,C019239,Male,27,Running Shoes,Sports,1,366.16,366.16,Debit Card,In-Store
+T0000111,3/28/2025,C009115,Male,34,Dumbbells,Sports,1,36.46,36.46,PayPal,Online
+T0000112,2/22/2025,C010922,Female,37,Cereal,Groceries,1,133.1,133.1,Cash,In-Store
+T0000113,11/9/2025,C013123,Male,41,Rice,Groceries,1,155.78,155.78,Credit Card,In-Store
+T0000114,4/28/2024,C013245,Male,22,Coffee,Groceries,2,250.11,500.22,PayPal,Online
+T0000115,1/5/2025,C020403,Female,51,Cookware Set,Home,1,74.76,74.76,Debit Card,In-Store
+T0000116,10/21/2024,C014357,Male,23,T-Shirt,Clothing,1,155.6,155.6,Credit Card,Mobile App
+T0000117,9/2/2024,C023259,Male,19,Building Blocks,Toys,2,160.61,321.22,Gift Card,In-Store
+T0000118,4/26/2024,C015121,Male,30,Sneakers,Clothing,1,298.25,298.25,Cash,Mobile App
+T0000119,5/9/2025,C015474,Male,60,Lipstick,Beauty,1,447.94,447.94,PayPal,Online
+T0000120,5/19/2024,C002288,Female,60,Lamp,Home,4,273.63,1094.52,Gift Card,In-Store
+T0000121,11/1/2024,C019233,Male,28,Rice,Groceries,1,155.78,155.78,PayPal,Mobile App
+T0000122,12/6/2024,C018086,Male,64,Cereal,Groceries,1,133.1,133.1,Cash,Online
+T0000123,1/27/2025,C007654,Female,40,Towel,Home,4,408.65,1634.6,PayPal,Mobile App
+T0000124,11/10/2025,C021366,Male,33,Moisturizer,Beauty,4,96.5,386,Debit Card,Mobile App
+T0000125,4/12/2024,C014428,Male,48,Cereal,Groceries,1,22.02,22.02,Credit Card,Mobile App
+T0000126,11/1/2025,C005059,Male,28,Lipstick,Beauty,1,470.05,470.05,Cash,Mobile App
+T0000127,3/23/2024,C010767,Male,33,Dumbbells,Sports,1,36.46,36.46,Cash,Mobile App
+T0000128,7/8/2025,C001177,Male,25,Notebook,Books,1,84.8,84.8,Cash,Online
+T0000129,4/10/2024,C024916,Male,21,Perfume,Beauty,2,461.33,922.66,Debit Card,Mobile App
+T0000130,1/30/2024,C001508,Female,57,Textbook,Books,2,436.37,872.74,Cash,In-Store
+T0000131,9/7/2024,C017406,Female,21,Jeans,Clothing,1,218.81,218.81,Debit Card,Online
+T0000132,1/26/2025,C020307,Male,42,Football,Sports,2,182.44,364.88,Gift Card,Online
+T0000133,10/15/2025,C008323,Female,20,Sunscreen,Beauty,2,166.04,332.08,PayPal,In-Store
+T0000134,3/16/2024,C014475,Female,49,Jeans,Clothing,1,307.87,307.87,PayPal,Mobile App
+T0000135,11/5/2024,C006528,Female,20,Sunscreen,Beauty,2,27.39,54.78,Debit Card,In-Store
+T0000136,8/11/2025,C009696,Male,44,Shampoo,Beauty,5,332.95,1664.75,PayPal,In-Store
+T0000137,12/3/2025,C024402,Male,46,Towel,Home,1,7.73,7.73,Cash,Online
+T0000138,12/26/2024,C007177,Male,49,Building Blocks,Toys,1,160.61,160.61,Debit Card,Mobile App
+T0000139,10/4/2025,C021180,Male,36,Textbook,Books,3,436.37,1309.11,Credit Card,Mobile App
+T0000140,5/14/2024,C002954,Female,38,Toy Car,Toys,2,282.83,565.66,Debit Card,Online
+T0000141,7/6/2025,C011989,Male,22,Doll,Toys,1,20.56,20.56,Debit Card,In-Store
+T0000142,10/29/2024,C024464,Female,35,Building Blocks,Toys,1,256.74,256.74,Credit Card,Online
+T0000143,11/23/2025,C023732,Male,45,Cookbook,Books,1,148.43,148.43,Credit Card,In-Store
+T0000144,7/3/2025,C004050,Female,59,Bread,Groceries,1,474.7,474.7,Gift Card,In-Store
+T0000145,11/22/2025,C007662,Female,39,Bluetooth Speaker,Electronics,3,110.11,330.33,Gift Card,Online
+T0000146,4/20/2025,C022973,Female,38,Dumbbells,Sports,1,313.53,313.53,Debit Card,Online
+T0000147,5/19/2025,C003806,Male,23,Rice,Groceries,4,343.7,1374.8,PayPal,In-Store
+T0000148,12/14/2025,C017702,Female,18,Running Shoes,Sports,2,165.97,331.94,PayPal,Mobile App
+T0000149,5/16/2025,C020174,Female,22,Novel,Books,1,208.14,208.14,Cash,Online
+T0000150,8/29/2024,C011885,Male,58,Perfume,Beauty,2,48.8,97.6,Credit Card,In-Store
+T0000151,5/5/2024,C014901,Male,29,Dress,Clothing,2,230.75,461.5,Credit Card,In-Store
+T0000152,8/1/2025,C006725,Male,43,T-Shirt,Clothing,1,155.6,155.6,Gift Card,Online
+T0000153,5/31/2024,C019530,Male,63,Cereal,Groceries,1,22.02,22.02,Debit Card,Mobile App
+T0000154,6/27/2024,C003603,Male,51,Building Blocks,Toys,1,160.61,160.61,Credit Card,In-Store
+T0000155,11/27/2024,C000518,Male,31,Yoga Mat,Sports,1,365.86,365.86,Debit Card,Mobile App
+T0000156,4/26/2024,C024434,Male,43,Cookware Set,Home,1,402.09,402.09,Cash,Mobile App
+T0000157,4/7/2025,C016510,Male,62,Bluetooth Speaker,Electronics,2,110.11,220.22,Gift Card,In-Store
+T0000158,2/1/2024,C001994,Female,44,Dumbbells,Sports,1,168.79,168.79,Credit Card,In-Store
+T0000159,3/23/2024,C010555,Male,26,Smartwatch,Electronics,1,355.5,355.5,Debit Card,In-Store
+T0000160,8/22/2025,C017969,Male,43,Dumbbells,Sports,2,313.53,627.06,Gift Card,Mobile App
+T0000161,6/1/2025,C019839,Female,64,Sunscreen,Beauty,1,27.39,27.39,Gift Card,Mobile App
+T0000162,4/7/2025,C007488,Female,39,Perfume,Beauty,1,461.33,461.33,PayPal,In-Store
+T0000163,3/13/2025,C010241,Male,64,Coffee,Groceries,2,65.41,130.82,Debit Card,Mobile App
+T0000164,4/3/2024,C002798,Male,47,Laptop,Electronics,5,302.55,1512.75,Cash,Online
+T0000165,8/23/2025,C018403,Male,60,Laptop,Electronics,1,433.76,433.76,PayPal,In-Store
+T0000166,2/22/2024,C009426,Male,34,Notebook,Books,2,84.8,169.6,Credit Card,Mobile App
+T0000167,6/7/2024,C021520,Female,43,Sneakers,Clothing,1,259.55,259.55,Cash,Mobile App
+T0000168,10/12/2024,C018813,Male,53,Bluetooth Speaker,Electronics,1,95,95,Gift Card,Mobile App
+T0000169,7/3/2024,C008955,Male,18,Headphones,Electronics,1,301.34,301.34,Cash,Online
+T0000170,5/26/2024,C018558,Male,25,Notebook,Books,1,84.8,84.8,Debit Card,Mobile App
+T0000171,6/27/2025,C007050,Female,52,Smartwatch,Electronics,1,485.11,485.11,Cash,Online
+T0000172,11/28/2024,C018599,Male,32,Coffee,Groceries,2,222.88,445.76,Debit Card,Online
+T0000173,11/21/2025,C002674,Female,64,Laptop,Electronics,4,33.75,135,PayPal,Mobile App
+T0000174,10/6/2024,C007064,Male,39,Lipstick,Beauty,1,447.94,447.94,PayPal,Online
+T0000175,11/25/2025,C019436,Female,31,Running Shoes,Sports,1,366.16,366.16,Credit Card,Online
+T0000176,2/26/2024,C000252,Male,43,Yoga Mat,Sports,1,386.78,386.78,Debit Card,In-Store
+T0000177,5/2/2024,C000254,Female,45,Coffee,Groceries,1,250.11,250.11,Debit Card,In-Store
+T0000178,8/23/2024,C016393,Male,40,Puzzle,Toys,1,64.2,64.2,PayPal,Mobile App
+T0000179,1/20/2024,C015066,Male,31,Perfume,Beauty,1,461.33,461.33,Gift Card,In-Store
+T0000180,4/27/2024,C013273,Male,41,Rice,Groceries,4,53.35,213.4,Gift Card,In-Store
+T0000181,3/23/2025,C003469,Male,19,Smartwatch,Electronics,2,485.11,970.22,Gift Card,Online
+T0000182,11/13/2024,C024439,Female,62,Notebook,Books,1,84.8,84.8,Debit Card,Online
+T0000183,4/26/2024,C017387,Male,43,Dumbbells,Sports,1,313.53,313.53,Cash,Mobile App
+T0000184,4/15/2024,C004799,Female,31,Milk,Groceries,1,305.73,305.73,Gift Card,Online
+T0000185,10/5/2025,C016192,Female,24,Jacket,Clothing,4,149.61,598.44,Gift Card,Mobile App
+T0000186,10/4/2025,C010360,Male,20,Coffee,Groceries,1,250.11,250.11,PayPal,In-Store
+T0000187,10/8/2024,C019380,Male,64,Doll,Toys,1,320.02,320.02,Cash,In-Store
+T0000188,2/28/2024,C012083,Female,40,Headphones,Electronics,1,82.23,82.23,Gift Card,Mobile App
+T0000189,4/18/2025,C019017,Male,63,Moisturizer,Beauty,1,96.5,96.5,Gift Card,Mobile App
+T0000190,9/11/2025,C015586,Male,60,Coffee,Groceries,5,250.11,1250.55,PayPal,Online
+T0000191,3/27/2024,C016534,Male,64,Puzzle,Toys,2,358.06,716.12,Debit Card,Mobile App
+T0000192,6/20/2025,C017130,Male,62,Perfume,Beauty,1,48.8,48.8,Cash,In-Store
+T0000193,12/12/2024,C022247,Male,35,Lipstick,Beauty,2,470.05,940.1,Credit Card,In-Store
+T0000194,11/25/2025,C012667,Female,55,Storage Box,Home,3,103.36,310.08,Cash,Online
+T0000195,5/24/2024,C011463,Female,52,Running Shoes,Sports,4,158.94,635.76,Gift Card,Mobile App
+T0000196,7/26/2025,C012344,Male,32,Coffee,Groceries,2,222.88,445.76,Gift Card,Online
+T0000197,1/5/2025,C000598,Female,42,Lamp,Home,4,273.63,1094.52,Debit Card,In-Store
+T0000198,8/19/2024,C004508,Male,54,Dress,Clothing,1,230.75,230.75,Credit Card,Mobile App
+T0000199,6/23/2025,C001237,Male,45,Novel,Books,1,208.14,208.14,Gift Card,In-Store
+T0000200,7/4/2024,C022704,Male,27,Jeans,Clothing,5,307.87,1539.35,Credit Card,In-Store
+T0000201,8/31/2024,C014556,Male,56,Running Shoes,Sports,1,366.16,366.16,Debit Card,Mobile App
+T0000202,4/25/2025,C006358,Female,34,Coffee,Groceries,4,222.88,891.52,PayPal,In-Store
+T0000203,6/24/2025,C013719,Male,56,Lamp,Home,2,144.06,288.12,Cash,Online
+T0000204,1/15/2025,C018172,Male,39,Notebook,Books,1,84.8,84.8,Cash,Online
+T0000205,4/5/2025,C016822,Male,43,Bread,Groceries,1,482.99,482.99,Debit Card,In-Store
+T0000206,1/28/2024,C013596,Male,61,Children Book,Books,2,271.97,543.94,Debit Card,In-Store
+T0000207,8/17/2024,C000924,Female,42,Shampoo,Beauty,5,262.43,1312.15,Debit Card,Online
+T0000208,4/28/2025,C022809,Male,34,Rice,Groceries,2,155.78,311.56,Gift Card,Online
+T0000209,9/19/2024,C007067,Male,30,Smartphone,Electronics,2,367.34,734.68,Credit Card,In-Store
+T0000210,5/4/2024,C001565,Male,37,Rice,Groceries,1,343.7,343.7,Credit Card,Online
+T0000211,7/2/2025,C000539,Male,42,Yoga Mat,Sports,4,386.78,1547.12,Debit Card,In-Store
+T0000212,9/21/2025,C011562,Male,21,Smartphone,Electronics,1,190.4,190.4,Debit Card,Mobile App
+T0000213,1/4/2025,C002218,Male,27,Cookware Set,Home,2,402.09,804.18,PayPal,In-Store
+T0000214,1/31/2025,C012233,Female,20,Dumbbells,Sports,1,313.53,313.53,Credit Card,In-Store
+T0000215,11/3/2025,C020587,Male,58,Toy Car,Toys,1,282.83,282.83,Debit Card,Online
+T0000216,12/12/2024,C021064,Male,62,Storage Box,Home,1,493.51,493.51,Debit Card,Online
+T0000217,4/13/2025,C001212,Female,35,Puzzle,Toys,1,358.06,358.06,Debit Card,Online
+T0000218,11/13/2024,C016889,Female,64,Children Book,Books,3,271.97,815.91,Cash,Online
+T0000219,12/31/2024,C001567,Male,53,Rice,Groceries,1,155.78,155.78,Credit Card,In-Store
+T0000220,2/13/2025,C024357,Female,64,Notebook,Books,2,405.02,810.04,Debit Card,In-Store
+T0000221,6/15/2025,C008740,Male,39,Shampoo,Beauty,2,262.43,524.86,PayPal,Mobile App
+T0000222,10/27/2024,C010526,Male,51,Storage Box,Home,1,493.51,493.51,Cash,In-Store
+T0000223,3/12/2025,C005461,Male,64,Yoga Mat,Sports,1,41.65,41.65,PayPal,Online
+T0000224,3/21/2025,C008997,Male,25,Football,Sports,1,182.44,182.44,PayPal,In-Store
+T0000225,11/26/2025,C005243,Male,57,Building Blocks,Toys,3,160.61,481.83,Credit Card,Online
+T0000226,10/22/2025,C012004,Female,61,Milk,Groceries,1,305.73,305.73,Gift Card,Online
+T0000227,1/15/2025,C014548,Male,36,Shampoo,Beauty,1,262.43,262.43,Gift Card,In-Store
+T0000228,10/27/2025,C009133,Male,59,Coffee,Groceries,3,65.41,196.23,Debit Card,In-Store
+T0000229,7/29/2025,C003859,Female,58,Moisturizer,Beauty,1,96.5,96.5,Debit Card,Mobile App
+T0000230,5/17/2025,C006560,Male,54,Water Bottle,Sports,1,444.17,444.17,PayPal,Online
+T0000231,11/29/2025,C010473,Male,23,Smartwatch,Electronics,1,485.11,485.11,Gift Card,Mobile App
+T0000232,11/3/2024,C005162,Male,43,Textbook,Books,1,318.53,318.53,Gift Card,Online
+T0000233,5/22/2024,C007758,Female,51,Dress,Clothing,2,393.66,787.32,Gift Card,Mobile App
+T0000234,7/18/2025,C004253,Male,62,Sunscreen,Beauty,1,166.04,166.04,Cash,In-Store
+T0000235,2/24/2025,C013417,Male,23,Cookware Set,Home,1,402.09,402.09,Cash,Mobile App
+T0000236,4/22/2025,C022286,Male,54,Sunscreen,Beauty,1,102.01,102.01,Gift Card,Mobile App
+T0000237,5/12/2024,C014177,Male,50,Jacket,Clothing,1,186.35,186.35,Gift Card,Online
+T0000238,6/14/2024,C010573,Male,39,Jacket,Clothing,3,74.05,222.15,Gift Card,In-Store
+T0000239,7/20/2024,C020810,Male,38,Milk,Groceries,2,37.2,74.4,Cash,Mobile App
+T0000240,5/29/2025,C021004,Male,23,Smartwatch,Electronics,1,485.11,485.11,Debit Card,Mobile App
+T0000241,9/11/2025,C011064,Male,23,Puzzle,Toys,1,381.59,381.59,Credit Card,Online
+T0000242,10/28/2025,C006908,Male,21,Bread,Groceries,1,474.7,474.7,PayPal,Mobile App
+T0000243,10/19/2025,C009900,Female,47,Rice,Groceries,1,53.35,53.35,Cash,In-Store
+T0000244,3/2/2024,C005180,Female,28,Water Bottle,Sports,1,444.17,444.17,PayPal,Online
+T0000245,5/27/2024,C010243,Male,47,Yoga Mat,Sports,1,41.65,41.65,PayPal,Online
+T0000246,7/29/2025,C003480,Female,48,Lamp,Home,1,273.63,273.63,Credit Card,In-Store
+T0000247,5/24/2024,C003173,Male,41,Milk,Groceries,2,89.41,178.82,Gift Card,In-Store
+T0000248,6/12/2024,C010730,Male,26,Cookbook,Books,3,148.43,445.29,Debit Card,In-Store
+T0000249,5/25/2025,C010111,Female,20,Sunscreen,Beauty,1,166.04,166.04,PayPal,Mobile App
+T0000250,8/8/2024,C019116,Female,48,Milk,Groceries,2,305.73,611.46,Cash,In-Store
+T0000251,10/31/2025,C022038,Female,57,Notebook,Books,1,465.2,465.2,Credit Card,In-Store
+T0000252,9/27/2024,C023839,Female,54,Notebook,Books,1,465.2,465.2,Credit Card,In-Store
+T0000253,7/29/2025,C006379,Female,53,Towel,Home,2,7.73,15.46,Credit Card,In-Store
+T0000254,7/17/2025,C009166,Male,41,Sunscreen,Beauty,1,102.01,102.01,Debit Card,Online
+T0000255,12/13/2024,C018280,Female,48,Shampoo,Beauty,1,262.43,262.43,Gift Card,Mobile App
+T0000256,2/11/2024,C001485,Male,23,Lamp,Home,2,144.06,288.12,PayPal,Mobile App
+T0000257,9/12/2025,C016893,Male,19,Jeans,Clothing,1,149.16,149.16,Debit Card,In-Store
+T0000258,11/2/2024,C019456,Female,37,Toy Car,Toys,1,386.63,386.63,Gift Card,In-Store
+T0000259,1/18/2024,C012071,Female,45,Building Blocks,Toys,1,454.25,454.25,Gift Card,In-Store
+T0000260,4/30/2025,C008701,Male,28,Yoga Mat,Sports,1,386.78,386.78,Credit Card,Mobile App
+T0000261,6/20/2025,C020612,Male,21,Jacket,Clothing,1,74.05,74.05,Debit Card,Mobile App
+T0000262,8/9/2025,C022955,Male,32,Headphones,Electronics,1,82.23,82.23,PayPal,In-Store
+T0000263,2/26/2025,C022627,Other,23,Jeans,Clothing,1,149.16,149.16,Credit Card,Mobile App
+T0000264,7/31/2024,C018380,Female,47,Cookware Set,Home,1,74.76,74.76,Cash,Online
+T0000265,6/29/2025,C011218,Male,55,Textbook,Books,2,402.82,805.64,Gift Card,In-Store
+T0000266,10/12/2024,C018288,Female,19,Milk,Groceries,1,89.41,89.41,Cash,Mobile App
+T0000267,12/22/2025,C016024,Female,32,Water Bottle,Sports,1,444.17,444.17,Gift Card,Mobile App
+T0000268,5/4/2024,C018792,Male,28,Rice,Groceries,1,155.78,155.78,PayPal,In-Store
+T0000269,2/13/2024,C009426,Male,25,Rice,Groceries,1,53.35,53.35,PayPal,Mobile App
+T0000270,5/5/2025,C007012,Male,43,Toy Car,Toys,2,249.43,498.86,Gift Card,Mobile App
+T0000271,4/21/2024,C020175,Other,62,T-Shirt,Clothing,1,264.75,264.75,Debit Card,Online
+T0000272,10/15/2025,C007630,Male,61,Sneakers,Clothing,2,298.25,596.5,Cash,Mobile App
+T0000273,11/28/2025,C004505,Male,22,Bluetooth Speaker,Electronics,1,417.06,417.06,PayPal,Mobile App
+T0000274,10/28/2025,C006536,Female,23,Bedsheet,Home,1,139.32,139.32,Credit Card,Online
+T0000275,7/1/2025,C024206,Male,43,Sneakers,Clothing,1,27.99,27.99,PayPal,Online
+T0000276,2/10/2025,C016233,Other,21,Novel,Books,1,379,379,Credit Card,In-Store
+T0000277,4/19/2024,C010979,Female,36,Yoga Mat,Sports,1,41.65,41.65,Debit Card,Mobile App
+T0000278,7/16/2024,C003692,Female,37,Bread,Groceries,1,482.99,482.99,Cash,Mobile App
+T0000279,12/11/2024,C009668,Male,50,Smartphone,Electronics,1,475.6,475.6,Gift Card,Mobile App
+T0000280,3/13/2025,C016885,Female,37,Novel,Books,4,128.4,513.6,Credit Card,Online
+T0000281,11/27/2024,C008129,Other,29,Bedsheet,Home,2,139.32,278.64,Debit Card,In-Store
+T0000282,11/5/2024,C019087,Other,64,Cereal,Groceries,1,22.02,22.02,Cash,Mobile App
+T0000283,8/29/2024,C002036,Other,18,Water Bottle,Sports,4,444.17,1776.68,Cash,Online
+T0000284,5/29/2025,C023055,Other,43,Water Bottle,Sports,1,320.59,320.59,Cash,Mobile App
+T0000285,5/16/2024,C015670,Male,31,Sneakers,Clothing,2,298.25,596.5,PayPal,Mobile App
+T0000286,4/27/2025,C024817,Male,55,Textbook,Books,1,402.82,402.82,Gift Card,Online
+T0000287,6/24/2025,C023062,Female,54,Sunscreen,Beauty,1,102.01,102.01,Credit Card,Mobile App
+T0000288,8/9/2025,C017586,Other,28,Dress,Clothing,1,393.66,393.66,Gift Card,In-Store
+T0000289,7/29/2024,C023492,Male,53,Water Bottle,Sports,1,320.59,320.59,Gift Card,In-Store
+T0000290,5/15/2024,C016819,Other,30,Sunscreen,Beauty,1,27.39,27.39,Gift Card,In-Store
+T0000291,1/23/2024,C012975,Female,60,Puzzle,Toys,1,381.59,381.59,Gift Card,Online
+T0000292,12/18/2024,C022951,Other,20,Perfume,Beauty,1,300.96,300.96,Credit Card,In-Store
+T0000293,2/22/2025,C005898,Male,50,Rice,Groceries,1,155.78,155.78,PayPal,In-Store
+T0000294,3/23/2024,C022372,Other,23,Moisturizer,Beauty,1,275.62,275.62,Cash,Online
+T0000295,2/6/2025,C017330,Male,27,Cookware Set,Home,1,41.9,41.9,Credit Card,In-Store
+T0000296,7/11/2025,C013898,Other,22,Running Shoes,Sports,2,366.16,732.32,Debit Card,In-Store
+T0000297,10/9/2024,C006177,Male,40,Jeans,Clothing,1,149.16,149.16,PayPal,Mobile App
+T0000298,7/30/2024,C002205,Male,27,Milk,Groceries,1,305.73,305.73,PayPal,Mobile App
+T0000299,2/15/2024,C013182,Female,61,Milk,Groceries,2,89.41,178.82,Credit Card,Online
+T0000300,8/27/2024,C023971,Other,19,Rice,Groceries,1,53.35,53.35,Debit Card,In-Store
+T0000301,6/17/2025,C007244,Female,30,Running Shoes,Sports,4,158.94,635.76,Credit Card,Mobile App
+T0000302,6/28/2024,C020513,Male,57,Notebook,Books,1,465.2,465.2,Credit Card,In-Store
+T0000303,6/21/2025,C010445,Male,19,Doll,Toys,1,20.56,20.56,Debit Card,In-Store
+T0000304,7/4/2025,C015517,Male,37,Jacket,Clothing,1,186.35,186.35,Debit Card,In-Store
+T0000305,2/26/2025,C013649,Male,18,Storage Box,Home,1,103.36,103.36,PayPal,Online
+T0000306,12/4/2024,C021192,Male,54,Dress,Clothing,1,103.84,103.84,Credit Card,Mobile App
+T0000307,10/1/2024,C012360,Male,26,Laptop,Electronics,2,33.75,67.5,Credit Card,Online
+T0000308,11/18/2025,C018313,Male,34,Puzzle,Toys,1,381.59,381.59,Cash,In-Store
+T0000309,7/13/2024,C024297,Male,26,Sneakers,Clothing,1,259.55,259.55,Gift Card,Mobile App
+T0000310,9/2/2024,C018091,Female,28,Moisturizer,Beauty,1,484.94,484.94,PayPal,Mobile App
+T0000311,9/24/2024,C011785,Male,32,Coffee,Groceries,1,222.88,222.88,Credit Card,Mobile App
+T0000312,11/23/2024,C006657,Female,41,Board Game,Toys,2,216.63,433.26,Credit Card,Mobile App
+T0000313,5/29/2024,C000532,Female,55,Toy Car,Toys,1,386.63,386.63,Cash,Online
+T0000314,8/23/2024,C012447,Male,52,Cereal,Groceries,1,22.02,22.02,Gift Card,Mobile App
+T0000315,5/15/2025,C023710,Male,47,Milk,Groceries,3,37.2,111.6,Debit Card,Mobile App
+T0000316,5/23/2024,C023604,Male,48,Jacket,Clothing,1,74.05,74.05,Gift Card,Mobile App
+T0000317,2/4/2024,C002436,Male,22,Cookware Set,Home,2,402.09,804.18,PayPal,Online
+T0000318,12/25/2025,C004949,Male,61,Laptop,Electronics,1,302.55,302.55,Cash,Online
+T0000319,11/13/2025,C020203,Other,31,Dumbbells,Sports,2,313.53,627.06,Credit Card,Mobile App
+T0000320,1/13/2024,C000549,Male,28,Lipstick,Beauty,3,470.05,1410.15,Credit Card,Mobile App
+T0000321,7/2/2024,C003507,Male,26,Building Blocks,Toys,1,256.74,256.74,Debit Card,Online
+T0000322,9/15/2024,C011615,Female,51,Cookware Set,Home,1,402.09,402.09,Cash,In-Store
+T0000323,9/6/2024,C022848,Male,29,Towel,Home,1,7.73,7.73,Credit Card,Online
+T0000324,1/21/2025,C018111,Female,52,Moisturizer,Beauty,2,275.62,551.24,Debit Card,Online
+T0000325,3/20/2025,C021133,Female,52,Cookbook,Books,1,118.26,118.26,Gift Card,Online
+T0000326,12/9/2025,C018573,Female,18,Sneakers,Clothing,1,259.55,259.55,Credit Card,Mobile App
+T0000327,7/10/2025,C018466,Male,57,Textbook,Books,1,436.37,436.37,Cash,Online
+T0000328,5/27/2024,C024650,Male,39,Yoga Mat,Sports,2,365.86,731.72,Cash,Online
+T0000329,8/3/2025,C012752,Male,46,Milk,Groceries,1,305.73,305.73,PayPal,Mobile App
+T0000330,12/6/2025,C023730,Male,25,Doll,Toys,2,320.02,640.04,Credit Card,Online
+T0000331,3/18/2024,C011161,Male,28,Sneakers,Clothing,2,27.99,55.98,Cash,Online
+T0000332,4/6/2025,C016077,Male,58,Doll,Toys,1,20.56,20.56,PayPal,Online
+T0000333,1/24/2025,C002809,Male,54,Running Shoes,Sports,1,158.94,158.94,Credit Card,Online
+T0000334,1/24/2025,C023321,Other,31,Jeans,Clothing,1,149.16,149.16,Cash,In-Store
+T0000335,1/6/2024,C010102,Female,47,Smartwatch,Electronics,1,485.11,485.11,Credit Card,Online
+T0000336,3/17/2025,C014708,Male,52,Jacket,Clothing,1,186.35,186.35,Credit Card,Online
+T0000337,7/21/2025,C003050,Male,38,Shampoo,Beauty,1,332.95,332.95,PayPal,Online
+T0000338,2/1/2025,C002776,Male,54,Lipstick,Beauty,1,470.05,470.05,Gift Card,Mobile App
+T0000339,1/24/2025,C005555,Male,22,Water Bottle,Sports,4,320.59,1282.36,Cash,In-Store
+T0000340,6/20/2024,C014244,Female,36,Laptop,Electronics,2,302.55,605.1,PayPal,Online
+T0000341,9/9/2024,C023623,Male,31,Milk,Groceries,2,37.2,74.4,PayPal,Online
+T0000342,1/7/2024,C012967,Female,43,Rice,Groceries,1,343.7,343.7,Cash,In-Store
+T0000343,10/28/2025,C019478,Male,21,Perfume,Beauty,1,461.33,461.33,Gift Card,Mobile App
+T0000344,11/17/2024,C005821,Female,42,Bedsheet,Home,4,139.32,557.28,PayPal,Mobile App
+T0000345,1/20/2025,C009185,Female,62,Coffee,Groceries,1,250.11,250.11,Gift Card,Online
+T0000346,7/3/2024,C022339,Male,59,Storage Box,Home,5,493.51,2467.55,Debit Card,In-Store
+T0000347,12/10/2025,C002267,Female,42,Novel,Books,1,208.14,208.14,Cash,Online
+T0000348,6/6/2024,C023437,Female,35,Running Shoes,Sports,3,158.94,476.82,PayPal,Mobile App
+T0000349,2/14/2025,C017511,Male,57,Towel,Home,1,354.89,354.89,Cash,Mobile App
+T0000350,10/15/2025,C002785,Male,25,Yoga Mat,Sports,1,386.78,386.78,Debit Card,Mobile App
+T0000351,7/30/2025,C021137,Male,56,Headphones,Electronics,2,82.22,164.44,PayPal,Online
+T0000352,9/21/2024,C007275,Male,57,Bluetooth Speaker,Electronics,1,417.06,417.06,PayPal,In-Store
+T0000353,11/26/2025,C019287,Male,31,Sunscreen,Beauty,1,166.04,166.04,Cash,Online
+T0000354,10/29/2024,C013631,Male,49,Bluetooth Speaker,Electronics,1,110.11,110.11,Cash,In-Store
+T0000355,7/30/2024,C017076,Female,55,Sunscreen,Beauty,2,27.39,54.78,Credit Card,In-Store
+T0000356,3/9/2024,C009840,Male,50,Coffee,Groceries,1,65.41,65.41,Cash,Mobile App
+T0000357,6/17/2024,C024265,Other,40,Running Shoes,Sports,1,366.16,366.16,Gift Card,Online
+T0000358,3/12/2025,C015141,Male,32,Storage Box,Home,1,103.36,103.36,Debit Card,Mobile App
+T0000359,1/30/2024,C024163,Male,50,Moisturizer,Beauty,3,484.94,1454.82,Gift Card,In-Store
+T0000360,12/22/2025,C007039,Male,42,Smartphone,Electronics,1,190.4,190.4,Gift Card,Online
+T0000361,1/9/2025,C010682,Male,34,Jacket,Clothing,1,186.35,186.35,Cash,Mobile App
+T0000362,10/16/2025,C010270,Male,50,Cookware Set,Home,1,402.09,402.09,Gift Card,Online
+T0000363,4/13/2025,C020230,Male,64,Shampoo,Beauty,1,332.95,332.95,Debit Card,In-Store
+T0000364,11/8/2024,C003833,Male,19,Milk,Groceries,1,305.73,305.73,Gift Card,In-Store
+T0000365,5/21/2024,C018836,Female,31,Yoga Mat,Sports,1,386.78,386.78,PayPal,Mobile App
+T0000366,10/22/2025,C005677,Male,57,Water Bottle,Sports,1,444.17,444.17,Cash,Online
+T0000367,4/6/2025,C020297,Male,57,Coffee,Groceries,1,65.41,65.41,PayPal,Online
+T0000368,1/28/2025,C018402,Male,56,Building Blocks,Toys,1,454.25,454.25,PayPal,In-Store
+T0000369,6/20/2024,C002709,Male,23,Bedsheet,Home,1,415.23,415.23,Cash,Online
+T0000370,7/4/2025,C009460,Male,23,Sneakers,Clothing,1,298.25,298.25,Gift Card,Mobile App
+T0000371,4/26/2024,C008779,Male,20,Towel,Home,2,408.65,817.3,PayPal,Mobile App
+T0000372,4/14/2024,C024117,Male,24,Perfume,Beauty,1,300.96,300.96,Credit Card,In-Store
+T0000373,3/30/2024,C014388,Male,25,Cereal,Groceries,1,133.1,133.1,Gift Card,Mobile App
+T0000374,12/28/2025,C019998,Male,59,Cookbook,Books,1,148.43,148.43,Gift Card,Online
+T0000375,7/30/2024,C001946,Male,32,Building Blocks,Toys,3,454.25,1362.75,Gift Card,Mobile App
+T0000376,12/21/2025,C009590,Female,64,Coffee,Groceries,1,250.11,250.11,Gift Card,Mobile App
+T0000377,2/25/2025,C001943,Female,46,T-Shirt,Clothing,2,264.75,529.5,Debit Card,Online
+T0000378,9/10/2024,C024952,Male,50,Novel,Books,1,208.14,208.14,Debit Card,Mobile App
+T0000379,2/28/2025,C012294,Female,47,Football,Sports,2,432.24,864.48,PayPal,Mobile App
+T0000380,1/12/2025,C014900,Female,56,Water Bottle,Sports,1,444.17,444.17,Credit Card,Mobile App
+T0000381,11/11/2025,C022849,Female,44,Dumbbells,Sports,1,313.53,313.53,Debit Card,In-Store
+T0000382,10/1/2024,C010580,Female,53,Lamp,Home,1,181.59,181.59,Gift Card,In-Store
+T0000383,11/29/2025,C024978,Male,46,Textbook,Books,2,318.53,637.06,PayPal,Online
+T0000384,6/10/2024,C014461,Female,55,Children Book,Books,2,446.82,893.64,Debit Card,Mobile App
+T0000385,10/27/2025,C009892,Male,50,Notebook,Books,1,465.2,465.2,Cash,In-Store
+T0000386,11/11/2025,C021264,Male,54,Shampoo,Beauty,2,262.43,524.86,Cash,Mobile App
+T0000387,11/2/2025,C002989,Other,44,Perfume,Beauty,2,300.96,601.92,Debit Card,In-Store
+T0000388,8/30/2025,C007412,Male,50,T-Shirt,Clothing,2,155.6,311.2,Credit Card,Mobile App
+T0000389,5/3/2024,C013839,Male,21,Building Blocks,Toys,1,454.25,454.25,Credit Card,Online
+T0000390,4/14/2024,C003382,Female,39,Smartwatch,Electronics,1,485.11,485.11,Debit Card,In-Store
+T0000391,11/24/2025,C004682,Male,19,Dumbbells,Sports,1,168.79,168.79,Gift Card,Mobile App
+T0000392,12/25/2024,C023673,Male,27,Perfume,Beauty,1,48.8,48.8,Gift Card,Mobile App
+T0000393,8/10/2024,C002841,Male,22,Cookbook,Books,1,148.43,148.43,Gift Card,Mobile App
+T0000394,3/15/2025,C010306,Male,27,Cereal,Groceries,2,133.1,266.2,Credit Card,Online
+T0000395,9/6/2025,C023632,Male,50,Yoga Mat,Sports,1,386.78,386.78,Cash,Online
+T0000396,6/5/2025,C006182,Male,55,Yoga Mat,Sports,1,41.65,41.65,Credit Card,Online
+T0000397,4/25/2024,C007900,Female,30,Moisturizer,Beauty,2,96.5,193,Gift Card,Online
+T0000398,11/20/2024,C004325,Female,48,Children Book,Books,1,271.97,271.97,Cash,Mobile App
+T0000399,4/27/2025,C002392,Male,64,Board Game,Toys,1,216.63,216.63,Credit Card,In-Store
+T0000400,3/2/2024,C013041,Male,53,Headphones,Electronics,2,82.22,164.44,PayPal,Mobile App
+T0000401,10/17/2025,C017583,Male,62,Smartwatch,Electronics,3,15.19,45.57,Cash,Online
+T0000402,6/7/2025,C006659,Male,41,Smartwatch,Electronics,3,15.19,45.57,PayPal,Mobile App
+T0000403,12/16/2025,C014336,Male,32,Coffee,Groceries,1,222.88,222.88,Debit Card,Online
+T0000404,4/9/2025,C020064,Male,46,Bluetooth Speaker,Electronics,1,95,95,Debit Card,Online
+T0000405,5/20/2024,C022987,Male,25,Puzzle,Toys,2,64.2,128.4,Cash,Mobile App
+T0000406,9/22/2024,C005472,Female,22,Doll,Toys,1,20.56,20.56,Credit Card,Online
+T0000407,3/15/2025,C008913,Other,46,Building Blocks,Toys,5,256.74,1283.7,Gift Card,Mobile App
+T0000408,4/11/2025,C016738,Female,64,Lamp,Home,1,181.59,181.59,Gift Card,Online
+T0000409,9/18/2024,C003372,Male,21,Jeans,Clothing,1,307.87,307.87,Gift Card,Online
+T0000410,1/13/2024,C008014,Male,29,Cookbook,Books,1,43.11,43.11,PayPal,Online
+T0000411,2/6/2024,C018117,Male,62,Children Book,Books,1,271.97,271.97,Cash,Online
+T0000412,11/23/2024,C008889,Male,19,Children Book,Books,2,97.35,194.7,Credit Card,Mobile App
+T0000413,8/16/2024,C016901,Male,44,Jacket,Clothing,1,149.61,149.61,PayPal,In-Store
+T0000414,3/29/2024,C018124,Female,48,Coffee,Groceries,1,250.11,250.11,Debit Card,In-Store
+T0000415,11/7/2024,C024235,Male,53,Doll,Toys,3,20.56,61.68,Cash,Mobile App
+T0000416,7/19/2024,C024002,Male,53,Board Game,Toys,2,17.58,35.16,Credit Card,In-Store
+T0000417,7/8/2025,C011352,Male,43,Sneakers,Clothing,1,27.99,27.99,Credit Card,Mobile App
+T0000418,11/10/2024,C003407,Male,60,Cookbook,Books,1,118.26,118.26,PayPal,In-Store
+T0000419,12/29/2025,C009170,Male,44,Jeans,Clothing,1,218.81,218.81,Gift Card,In-Store
+T0000420,3/27/2024,C019031,Male,22,Sunscreen,Beauty,1,27.39,27.39,PayPal,Online
+T0000421,3/4/2024,C014254,Male,37,Towel,Home,1,7.73,7.73,Cash,In-Store
+T0000422,2/6/2025,C022962,Male,28,Children Book,Books,1,446.82,446.82,PayPal,In-Store
+T0000423,7/26/2024,C004461,Male,27,Smartwatch,Electronics,1,355.5,355.5,Credit Card,Online
+T0000424,11/17/2024,C013321,Male,57,Sunscreen,Beauty,2,166.04,332.08,Debit Card,In-Store
+T0000425,9/28/2024,C003930,Other,55,Sunscreen,Beauty,1,166.04,166.04,Gift Card,Online
+T0000426,12/1/2024,C004861,Male,23,Novel,Books,2,208.14,416.28,PayPal,Mobile App
+T0000427,11/2/2024,C008526,Male,25,Running Shoes,Sports,2,366.16,732.32,PayPal,Mobile App
+T0000428,4/6/2024,C015141,Male,40,Milk,Groceries,1,89.41,89.41,Credit Card,Online
+T0000429,7/21/2024,C013127,Female,64,T-Shirt,Clothing,1,155.6,155.6,Credit Card,Online
+T0000430,10/23/2025,C014531,Male,43,Dress,Clothing,1,393.66,393.66,Credit Card,Online
+T0000431,6/21/2024,C018806,Female,63,Laptop,Electronics,1,33.75,33.75,Credit Card,In-Store
+T0000432,12/28/2024,C007036,Male,60,Jacket,Clothing,1,149.61,149.61,PayPal,Online
+T0000433,9/26/2025,C020218,Male,29,Football,Sports,2,182.44,364.88,PayPal,Mobile App
+T0000434,3/30/2024,C009168,Female,43,Laptop,Electronics,2,433.76,867.52,Debit Card,Mobile App
+T0000435,10/7/2025,C017815,Male,30,Milk,Groceries,1,89.41,89.41,PayPal,Mobile App
+T0000436,8/2/2025,C016463,Female,57,Cereal,Groceries,2,133.1,266.2,Debit Card,Online
+T0000437,8/12/2024,C000961,Female,35,Yoga Mat,Sports,1,386.78,386.78,Gift Card,In-Store
+T0000438,6/12/2024,C003282,Male,42,Sneakers,Clothing,1,27.99,27.99,Gift Card,Mobile App
+T0000439,8/12/2024,C018865,Female,50,Board Game,Toys,3,216.63,649.89,Debit Card,Online
+T0000440,12/15/2025,C011757,Male,64,Coffee,Groceries,4,65.41,261.64,Gift Card,Mobile App
+T0000441,7/11/2024,C016130,Male,57,Towel,Home,1,7.73,7.73,PayPal,Online
+T0000442,8/26/2024,C019716,Male,60,Laptop,Electronics,3,433.76,1301.28,Credit Card,In-Store
+T0000443,5/13/2024,C011166,Male,29,Dress,Clothing,2,393.66,787.32,Credit Card,Online
+T0000444,12/22/2025,C004642,Male,61,Yoga Mat,Sports,2,365.86,731.72,Credit Card,In-Store
+T0000445,4/13/2024,C011029,Female,53,Yoga Mat,Sports,1,365.86,365.86,Debit Card,Mobile App
+T0000446,10/16/2025,C015965,Male,21,Doll,Toys,1,320.02,320.02,Gift Card,Mobile App
+T0000447,12/31/2024,C007316,Male,22,Doll,Toys,4,20.56,82.24,PayPal,In-Store
+T0000448,6/30/2024,C023883,Other,54,T-Shirt,Clothing,2,155.6,311.2,Gift Card,Online
+T0000449,11/21/2024,C020034,Male,25,Yoga Mat,Sports,1,41.65,41.65,PayPal,Online
+T0000450,3/20/2024,C007799,Female,59,Toy Car,Toys,3,249.43,748.29,Credit Card,Mobile App
+T0000451,1/12/2024,C008691,Male,45,Sunscreen,Beauty,2,102.01,204.02,Cash,In-Store
+T0000452,1/2/2024,C001578,Female,48,Puzzle,Toys,4,381.59,1526.36,Debit Card,In-Store
+T0000453,1/22/2025,C011510,Male,26,Notebook,Books,4,465.2,1860.8,PayPal,Mobile App
+T0000454,4/7/2025,C002416,Male,46,Jeans,Clothing,3,307.87,923.61,Cash,In-Store
+T0000455,12/16/2024,C005575,Female,31,Smartwatch,Electronics,1,355.5,355.5,Gift Card,Online
+T0000456,9/20/2025,C015819,Male,57,Yoga Mat,Sports,1,386.78,386.78,Debit Card,Mobile App
+T0000457,2/24/2024,C003319,Female,58,Jeans,Clothing,1,307.87,307.87,PayPal,Mobile App
+T0000458,7/7/2025,C008693,Male,39,Puzzle,Toys,1,381.59,381.59,Debit Card,Online
+T0000459,8/8/2025,C018012,Female,28,Moisturizer,Beauty,1,484.94,484.94,Cash,Online
+T0000460,10/28/2024,C021694,Male,40,Smartwatch,Electronics,1,485.11,485.11,Debit Card,Online
+T0000461,6/23/2024,C020913,Female,18,Dress,Clothing,1,103.84,103.84,Credit Card,In-Store
+T0000462,5/15/2025,C021661,Female,63,Bedsheet,Home,1,197.4,197.4,Debit Card,In-Store
+T0000463,7/10/2024,C014608,Male,54,Shampoo,Beauty,3,262.43,787.29,PayPal,In-Store
+T0000464,10/2/2024,C018490,Male,38,Novel,Books,1,379,379,Credit Card,Mobile App
+T0000465,7/8/2025,C013566,Male,43,Building Blocks,Toys,3,256.74,770.22,PayPal,Mobile App
+T0000466,12/4/2025,C015560,Other,63,Cookware Set,Home,3,41.9,125.7,Cash,Online
+T0000467,2/5/2024,C016453,Male,53,Textbook,Books,4,436.37,1745.48,Credit Card,In-Store
+T0000468,8/4/2024,C006316,Male,40,Jacket,Clothing,5,74.05,370.25,Credit Card,Mobile App
+T0000469,10/4/2025,C004846,Male,18,Dress,Clothing,2,393.66,787.32,Credit Card,Online
+T0000470,2/10/2025,C018090,Female,57,Storage Box,Home,1,103.36,103.36,Credit Card,Mobile App
+T0000471,6/19/2025,C013750,Male,32,Yoga Mat,Sports,3,365.86,1097.58,Debit Card,Mobile App
+T0000472,4/12/2024,C003462,Male,38,Towel,Home,2,354.89,709.78,Gift Card,In-Store
+T0000473,1/27/2025,C021457,Female,64,Bread,Groceries,1,474.7,474.7,Credit Card,Online
+T0000474,5/27/2024,C020259,Male,26,Lipstick,Beauty,1,388.69,388.69,PayPal,In-Store
+T0000475,5/1/2025,C008801,Female,26,Laptop,Electronics,1,33.75,33.75,Cash,In-Store
+T0000476,5/18/2025,C022813,Male,27,Novel,Books,1,379,379,Debit Card,In-Store
+T0000477,11/24/2024,C008829,Male,43,Doll,Toys,1,58.41,58.41,Debit Card,In-Store
+T0000478,2/20/2025,C024280,Female,58,Textbook,Books,5,402.82,2014.1,Credit Card,Mobile App
+T0000479,11/14/2024,C023252,Male,52,Laptop,Electronics,1,302.55,302.55,Gift Card,Mobile App
+T0000480,7/16/2024,C006578,Male,42,Jacket,Clothing,1,149.61,149.61,PayPal,Online
+T0000481,7/22/2024,C008978,Female,43,Puzzle,Toys,2,64.2,128.4,Credit Card,Mobile App
+T0000482,1/16/2025,C016017,Male,28,Milk,Groceries,1,305.73,305.73,PayPal,Mobile App
+T0000483,12/18/2024,C005359,Female,55,Cereal,Groceries,4,133.1,532.4,Credit Card,In-Store
+T0000484,8/8/2025,C007023,Male,19,Jeans,Clothing,2,307.87,615.74,Cash,Mobile App
+T0000485,1/21/2024,C022355,Male,24,Lamp,Home,5,273.63,1368.15,Debit Card,Mobile App
+T0000486,9/15/2024,C019935,Other,35,Sneakers,Clothing,4,298.25,1193,PayPal,In-Store
+T0000487,8/11/2024,C015293,Female,44,Milk,Groceries,2,37.2,74.4,Gift Card,Online
+T0000488,11/9/2025,C012263,Male,51,Lamp,Home,1,273.63,273.63,Cash,Mobile App
+T0000489,3/6/2024,C011020,Female,44,Bedsheet,Home,1,139.32,139.32,Cash,Mobile App
+T0000490,6/2/2024,C016951,Male,34,Dress,Clothing,2,230.75,461.5,Cash,Mobile App
+T0000491,1/27/2024,C021477,Female,60,Puzzle,Toys,1,381.59,381.59,PayPal,In-Store
+T0000492,2/6/2024,C019105,Male,61,Toy Car,Toys,3,386.63,1159.89,Cash,Mobile App
+T0000493,7/1/2025,C020917,Female,41,Water Bottle,Sports,5,320.59,1602.95,Debit Card,Mobile App
+T0000494,10/27/2024,C003199,Female,42,Jacket,Clothing,1,186.35,186.35,Gift Card,Online
+T0000495,4/1/2024,C007283,Female,24,Dumbbells,Sports,2,36.46,72.92,PayPal,In-Store
+T0000496,8/22/2025,C009636,Female,23,Bread,Groceries,2,474.7,949.4,Credit Card,Mobile App
+T0000497,9/27/2025,C002334,Female,41,Towel,Home,1,354.89,354.89,PayPal,Mobile App
+T0000498,2/25/2024,C004941,Male,50,Lipstick,Beauty,1,470.05,470.05,PayPal,Mobile App
+T0000499,11/19/2024,C023452,Male,46,Jeans,Clothing,1,218.81,218.81,Cash,Mobile App
+T0000500,10/11/2025,C001901,Male,60,Coffee,Groceries,1,65.41,65.41,Debit Card,Online
+T0000501,6/11/2024,C016043,Male,39,Board Game,Toys,3,216.63,649.89,PayPal,In-Store
+T0000502,1/27/2025,C000153,Male,43,Bedsheet,Home,3,139.32,417.96,Cash,Online
+T0000503,6/27/2025,C006245,Male,45,Board Game,Toys,2,263.75,527.5,Debit Card,Mobile App
+T0000504,5/12/2024,C003366,Female,38,Coffee,Groceries,1,222.88,222.88,Debit Card,Online
+T0000505,10/24/2024,C014940,Male,24,Rice,Groceries,1,343.7,343.7,PayPal,Mobile App
+T0000506,5/16/2025,C011772,Male,34,Cereal,Groceries,2,455.11,910.22,Credit Card,Online
+T0000507,5/14/2024,C006921,Male,37,Toy Car,Toys,1,282.83,282.83,Credit Card,In-Store
+T0000508,10/17/2025,C008382,Male,58,Moisturizer,Beauty,2,275.62,551.24,Gift Card,Online
+T0000509,1/21/2024,C001581,Male,37,Dumbbells,Sports,3,36.46,109.38,PayPal,In-Store
+T0000510,9/15/2024,C015546,Male,39,Storage Box,Home,1,387.26,387.26,Credit Card,In-Store
+T0000511,4/13/2024,C021709,Male,45,Running Shoes,Sports,2,158.94,317.88,PayPal,Online
+T0000512,9/24/2025,C003858,Female,57,Puzzle,Toys,2,381.59,763.18,PayPal,Online
+T0000513,9/26/2024,C017143,Male,24,Dress,Clothing,1,393.66,393.66,Cash,Online
+T0000514,5/23/2025,C006806,Male,18,Storage Box,Home,2,387.26,774.52,Debit Card,Online
+T0000515,4/1/2024,C003619,Male,49,Running Shoes,Sports,3,165.97,497.91,Credit Card,Mobile App
+T0000516,4/13/2024,C008386,Other,30,Puzzle,Toys,2,381.59,763.18,Cash,In-Store
+T0000517,4/12/2024,C005725,Male,47,Laptop,Electronics,2,33.75,67.5,Cash,In-Store
+T0000518,2/16/2024,C000317,Male,40,Bluetooth Speaker,Electronics,2,417.06,834.12,Cash,In-Store
+T0000519,4/5/2024,C012211,Female,36,Bread,Groceries,1,482.99,482.99,PayPal,In-Store
+T0000520,1/29/2025,C022607,Female,49,Bread,Groceries,3,482.99,1448.97,Credit Card,Online
+T0000521,6/12/2024,C003399,Female,47,Cookbook,Books,2,118.26,236.52,Gift Card,Mobile App
+T0000522,9/17/2025,C012444,Female,46,Jacket,Clothing,1,186.35,186.35,Debit Card,In-Store
+T0000523,2/25/2025,C014441,Male,62,Bluetooth Speaker,Electronics,1,95,95,Cash,Online
+T0000524,8/13/2025,C023717,Male,46,Board Game,Toys,2,17.58,35.16,Gift Card,Mobile App
+T0000525,3/19/2025,C021684,Male,47,Bluetooth Speaker,Electronics,1,417.06,417.06,Cash,Mobile App
+T0000526,7/25/2025,C020084,Male,33,Jeans,Clothing,2,149.16,298.32,Gift Card,In-Store
+T0000527,6/18/2024,C002454,Female,57,Notebook,Books,2,84.8,169.6,Cash,In-Store
+T0000528,8/16/2024,C018039,Male,36,Lamp,Home,2,144.06,288.12,Debit Card,Online
+T0000529,8/9/2025,C014684,Male,35,Perfume,Beauty,2,48.8,97.6,Cash,Online
+T0000530,10/31/2025,C000583,Male,18,Toy Car,Toys,2,249.43,498.86,Credit Card,Mobile App
+T0000531,4/3/2024,C019799,Male,31,Smartphone,Electronics,4,190.4,761.6,PayPal,In-Store
+T0000532,2/25/2024,C007305,Female,64,Novel,Books,2,128.4,256.8,Cash,Mobile App
+T0000533,4/9/2024,C024882,Male,19,Bluetooth Speaker,Electronics,1,95,95,Cash,In-Store
+T0000534,6/18/2025,C012252,Other,45,Storage Box,Home,2,387.26,774.52,Debit Card,In-Store
+T0000535,2/23/2025,C003505,Female,47,Novel,Books,1,128.4,128.4,Debit Card,Online
+T0000536,4/13/2025,C006245,Male,55,Sneakers,Clothing,1,259.55,259.55,PayPal,Online
+T0000537,4/6/2025,C014988,Male,21,T-Shirt,Clothing,1,95.79,95.79,PayPal,Online
+T0000538,2/19/2024,C018129,Female,18,Toy Car,Toys,1,386.63,386.63,Gift Card,Online
+T0000539,5/11/2024,C003394,Female,25,Jacket,Clothing,5,149.61,748.05,Gift Card,In-Store
+T0000540,12/10/2025,C024982,Male,46,Yoga Mat,Sports,2,41.65,83.3,Cash,In-Store
+T0000541,5/16/2024,C004528,Female,56,Building Blocks,Toys,2,256.74,513.48,Gift Card,In-Store
+T0000542,8/10/2024,C006583,Male,20,Football,Sports,1,432.24,432.24,Cash,Mobile App
+T0000543,10/27/2025,C005827,Male,49,Puzzle,Toys,1,64.2,64.2,Credit Card,In-Store
+T0000544,8/19/2025,C018699,Male,27,Bedsheet,Home,2,139.32,278.64,PayPal,Online
+T0000545,1/26/2024,C012481,Male,27,Bluetooth Speaker,Electronics,1,110.11,110.11,Debit Card,In-Store
+T0000546,11/30/2025,C008211,Male,36,Rice,Groceries,1,155.78,155.78,Debit Card,Mobile App
+T0000547,4/8/2025,C003359,Male,63,Shampoo,Beauty,1,332.95,332.95,Gift Card,In-Store
+T0000548,12/13/2025,C009426,Male,51,Lamp,Home,2,273.63,547.26,PayPal,In-Store
+T0000549,2/25/2024,C000425,Male,50,Storage Box,Home,1,387.26,387.26,Gift Card,In-Store
+T0000550,10/10/2025,C023090,Male,40,Textbook,Books,2,402.82,805.64,Debit Card,In-Store
+T0000551,11/30/2025,C002441,Male,45,Jacket,Clothing,4,149.61,598.44,PayPal,Online
+T0000552,7/23/2025,C008659,Male,49,Bread,Groceries,1,405.16,405.16,Credit Card,In-Store
+T0000553,6/7/2024,C001309,Male,24,Puzzle,Toys,1,64.2,64.2,Gift Card,Mobile App
+T0000554,8/9/2025,C018028,Female,46,Bedsheet,Home,1,415.23,415.23,Gift Card,Online
+T0000555,3/10/2024,C016553,Other,25,Cookware Set,Home,5,74.76,373.8,Credit Card,In-Store
+T0000556,8/6/2024,C021737,Female,18,Notebook,Books,3,405.02,1215.06,Cash,Online
+T0000557,5/1/2025,C018394,Male,20,Cookware Set,Home,1,402.09,402.09,Cash,In-Store
+T0000558,10/19/2025,C020110,Male,41,Textbook,Books,2,436.37,872.74,Cash,In-Store
+T0000559,9/19/2024,C017703,Male,40,Moisturizer,Beauty,3,96.5,289.5,Gift Card,In-Store
+T0000560,6/4/2025,C014601,Female,25,Building Blocks,Toys,4,160.61,642.44,Debit Card,In-Store
+T0000561,4/8/2024,C005486,Male,64,Smartwatch,Electronics,3,15.19,45.57,Credit Card,Online
+T0000562,12/2/2025,C013901,Male,54,Cookbook,Books,2,148.43,296.86,Credit Card,Mobile App
+T0000563,4/15/2025,C023491,Female,20,Headphones,Electronics,2,301.34,602.68,Credit Card,Online
+T0000564,9/14/2024,C018288,Male,50,Doll,Toys,1,320.02,320.02,Cash,In-Store
+T0000565,10/7/2025,C013253,Female,45,Sunscreen,Beauty,4,102.01,408.04,PayPal,Mobile App
+T0000566,1/7/2024,C021019,Male,64,Cookware Set,Home,2,41.9,83.8,Gift Card,Online
+T0000567,5/29/2025,C003478,Female,25,Shampoo,Beauty,1,332.95,332.95,Cash,In-Store
+T0000568,11/7/2025,C001010,Female,51,Moisturizer,Beauty,2,484.94,969.88,Debit Card,Mobile App
+T0000569,7/12/2025,C009666,Male,52,Doll,Toys,1,320.02,320.02,Cash,Online
+T0000570,7/22/2025,C004633,Male,49,Notebook,Books,1,84.8,84.8,Gift Card,Mobile App
+T0000571,7/14/2025,C002790,Female,41,Cookware Set,Home,1,41.9,41.9,Debit Card,In-Store
+T0000572,6/13/2024,C006030,Male,31,Jeans,Clothing,1,218.81,218.81,Debit Card,Online
+T0000573,8/3/2025,C001783,Male,49,Running Shoes,Sports,1,165.97,165.97,Cash,Mobile App
+T0000574,4/10/2024,C006469,Male,63,Milk,Groceries,1,37.2,37.2,Cash,In-Store
+T0000575,11/2/2025,C007686,Male,60,Running Shoes,Sports,2,165.97,331.94,Debit Card,In-Store
+T0000576,12/2/2024,C020197,Male,33,Sunscreen,Beauty,2,102.01,204.02,Gift Card,Mobile App
+T0000577,11/19/2024,C014035,Other,21,Building Blocks,Toys,2,256.74,513.48,Debit Card,Online
+T0000578,1/3/2025,C004401,Male,54,Bread,Groceries,1,405.16,405.16,PayPal,In-Store
+T0000579,11/8/2024,C015958,Male,38,Doll,Toys,1,58.41,58.41,Gift Card,Online
+T0000580,5/23/2024,C017650,Male,31,Cookbook,Books,1,43.11,43.11,Credit Card,Online
+T0000581,2/1/2024,C019068,Male,48,Football,Sports,2,432.24,864.48,Credit Card,Mobile App
+T0000582,7/6/2025,C015470,Male,35,Storage Box,Home,1,493.51,493.51,PayPal,Online
+T0000583,10/24/2024,C004388,Female,24,Toy Car,Toys,1,282.83,282.83,PayPal,In-Store
+T0000584,11/9/2025,C007828,Male,27,Smartphone,Electronics,1,475.6,475.6,PayPal,Online
+T0000585,8/2/2025,C021608,Male,24,Towel,Home,1,7.73,7.73,Credit Card,Online
+T0000586,3/5/2024,C008663,Female,50,Sneakers,Clothing,1,27.99,27.99,Debit Card,Mobile App
+T0000587,4/25/2025,C014898,Male,40,Moisturizer,Beauty,1,96.5,96.5,Credit Card,Mobile App
+T0000588,10/7/2024,C024311,Female,38,Dumbbells,Sports,2,313.53,627.06,PayPal,Mobile App
+T0000589,8/24/2025,C021409,Male,36,Shampoo,Beauty,1,159.3,159.3,PayPal,Online
+T0000590,12/27/2024,C011307,Female,36,Lipstick,Beauty,2,388.69,777.38,Gift Card,Online
+T0000591,8/23/2024,C002527,Male,53,Jacket,Clothing,1,74.05,74.05,Debit Card,Online
+T0000592,9/8/2025,C023505,Male,46,Shampoo,Beauty,1,159.3,159.3,Cash,Mobile App
+T0000593,11/22/2025,C015690,Female,35,Bedsheet,Home,2,139.32,278.64,PayPal,Online
+T0000594,5/10/2024,C018793,Male,19,Headphones,Electronics,2,82.22,164.44,Gift Card,Online
+T0000595,2/27/2024,C005451,Other,18,Jeans,Clothing,1,218.81,218.81,Gift Card,Mobile App
+T0000596,11/8/2025,C009289,Male,64,Notebook,Books,1,465.2,465.2,Gift Card,In-Store
+T0000597,8/12/2024,C013461,Male,22,Jacket,Clothing,1,74.05,74.05,Gift Card,Mobile App
+T0000598,6/20/2024,C023731,Male,37,Bread,Groceries,1,474.7,474.7,Gift Card,Mobile App
+T0000599,1/22/2025,C012631,Male,28,Sneakers,Clothing,1,27.99,27.99,Debit Card,Mobile App
+T0000600,3/5/2025,C004901,Male,59,Water Bottle,Sports,1,320.59,320.59,PayPal,Mobile App
+T0000601,6/28/2025,C016494,Male,19,Headphones,Electronics,1,82.23,82.23,Debit Card,Mobile App
+T0000602,1/2/2024,C022236,Male,20,Novel,Books,3,128.4,385.2,Cash,Online
+T0000603,8/22/2024,C015799,Female,40,Perfume,Beauty,5,300.96,1504.8,PayPal,Online
+T0000604,8/26/2024,C002747,Female,29,Bedsheet,Home,1,139.32,139.32,Cash,Online
+T0000605,1/8/2024,C018940,Male,37,Puzzle,Toys,2,64.2,128.4,PayPal,Mobile App
+T0000606,11/19/2024,C013398,Female,22,Water Bottle,Sports,1,444.17,444.17,PayPal,Mobile App
+T0000607,9/24/2024,C017568,Female,54,Milk,Groceries,1,37.2,37.2,Gift Card,In-Store
+T0000608,7/27/2024,C013541,Male,55,Board Game,Toys,5,263.75,1318.75,Debit Card,In-Store
+T0000609,5/10/2025,C008316,Female,47,Storage Box,Home,1,103.36,103.36,PayPal,Mobile App
+T0000610,11/6/2025,C003903,Male,26,Cookbook,Books,1,43.11,43.11,Debit Card,Online
+T0000611,2/14/2025,C011090,Male,51,Lamp,Home,1,273.63,273.63,Debit Card,In-Store
+T0000612,4/3/2024,C004763,Female,61,Building Blocks,Toys,3,160.61,481.83,Credit Card,Online
+T0000613,1/14/2025,C002623,Male,52,Sneakers,Clothing,2,298.25,596.5,PayPal,Mobile App
+T0000614,12/29/2025,C019578,Other,39,Rice,Groceries,1,155.78,155.78,PayPal,Online
+T0000615,11/3/2025,C016979,Female,61,Cookbook,Books,5,118.26,591.3,Gift Card,Mobile App
+T0000616,8/25/2024,C020159,Male,41,Water Bottle,Sports,3,238.75,716.25,Debit Card,Mobile App
+T0000617,3/29/2024,C009042,Female,34,Jeans,Clothing,1,307.87,307.87,PayPal,Mobile App
+T0000618,1/16/2024,C024148,Male,27,Cookware Set,Home,1,74.76,74.76,Gift Card,In-Store
+T0000619,8/19/2025,C011407,Female,47,Children Book,Books,3,97.35,292.05,Gift Card,Online
+T0000620,2/17/2025,C018839,Male,63,Children Book,Books,1,271.97,271.97,PayPal,Mobile App
+T0000621,3/15/2024,C016488,Female,40,Storage Box,Home,3,103.36,310.08,Gift Card,In-Store
+T0000622,8/11/2025,C008197,Male,49,Building Blocks,Toys,2,454.25,908.5,Gift Card,In-Store
+T0000623,12/13/2024,C015036,Male,34,Board Game,Toys,2,263.75,527.5,PayPal,Online
+T0000624,1/26/2025,C020764,Male,34,Laptop,Electronics,2,302.55,605.1,PayPal,In-Store
+T0000625,1/10/2024,C022965,Female,31,Cookware Set,Home,1,41.9,41.9,Credit Card,In-Store
+T0000626,7/21/2025,C005849,Female,26,Smartwatch,Electronics,5,355.5,1777.5,Debit Card,Mobile App
+T0000627,11/30/2025,C006232,Female,57,Jacket,Clothing,3,186.35,559.05,Debit Card,In-Store
+T0000628,7/26/2024,C008183,Male,19,Sneakers,Clothing,1,27.99,27.99,Credit Card,Online
+T0000629,11/10/2025,C016144,Male,62,Running Shoes,Sports,1,366.16,366.16,PayPal,In-Store
+T0000630,5/19/2025,C018826,Female,42,Coffee,Groceries,1,65.41,65.41,Gift Card,In-Store
+T0000631,8/13/2025,C004203,Male,56,Sneakers,Clothing,1,298.25,298.25,PayPal,Mobile App
+T0000632,12/21/2024,C012902,Male,26,Lamp,Home,4,144.06,576.24,Credit Card,Mobile App
+T0000633,11/19/2024,C022585,Male,39,Sunscreen,Beauty,2,27.39,54.78,PayPal,Mobile App
+T0000634,1/5/2025,C020080,Female,60,Coffee,Groceries,2,250.11,500.22,Debit Card,In-Store
+T0000635,12/17/2024,C011991,Other,63,Football,Sports,4,182.44,729.76,Debit Card,In-Store
+T0000636,2/14/2025,C009163,Female,21,Shampoo,Beauty,1,159.3,159.3,Gift Card,Mobile App
+T0000637,4/12/2024,C023620,Female,43,Building Blocks,Toys,1,454.25,454.25,PayPal,Online
+T0000638,6/2/2024,C015499,Male,46,Building Blocks,Toys,1,160.61,160.61,PayPal,Online
+T0000639,11/19/2024,C015946,Female,62,Cookware Set,Home,1,41.9,41.9,PayPal,Online
+T0000640,8/8/2024,C008333,Female,51,Laptop,Electronics,2,433.76,867.52,Cash,In-Store
+T0000641,7/27/2025,C018268,Female,40,Shampoo,Beauty,1,159.3,159.3,PayPal,Online
+T0000642,11/26/2025,C019844,Male,54,Notebook,Books,1,84.8,84.8,Cash,In-Store
+T0000643,6/6/2025,C015975,Male,28,Running Shoes,Sports,2,366.16,732.32,PayPal,Mobile App
+T0000644,10/8/2025,C004747,Male,23,Sunscreen,Beauty,2,166.04,332.08,Gift Card,Mobile App
+T0000645,3/14/2024,C002593,Male,35,Cookbook,Books,1,118.26,118.26,Cash,In-Store
+T0000646,9/30/2024,C019838,Male,38,Puzzle,Toys,1,64.2,64.2,PayPal,In-Store
+T0000647,4/6/2025,C013566,Male,59,Cookware Set,Home,1,74.76,74.76,Debit Card,Mobile App
+T0000648,9/14/2024,C024376,Male,53,Running Shoes,Sports,1,158.94,158.94,Debit Card,In-Store
+T0000649,3/6/2024,C015506,Male,58,Bluetooth Speaker,Electronics,1,417.06,417.06,PayPal,Mobile App
+T0000650,9/25/2024,C020254,Male,55,Bluetooth Speaker,Electronics,1,110.11,110.11,Cash,Online
+T0000651,10/17/2024,C014522,Male,51,Toy Car,Toys,1,386.63,386.63,Gift Card,Online
+T0000652,11/10/2025,C011693,Female,34,Headphones,Electronics,1,82.23,82.23,Gift Card,In-Store
+T0000653,5/18/2024,C022860,Male,54,Perfume,Beauty,5,48.8,244,Gift Card,In-Store
+T0000654,10/16/2025,C017492,Female,42,Dumbbells,Sports,1,313.53,313.53,Gift Card,Online
+T0000655,11/11/2024,C011986,Female,55,Perfume,Beauty,2,48.8,97.6,Cash,Online
+T0000656,5/19/2024,C011269,Female,29,Cookware Set,Home,1,74.76,74.76,PayPal,In-Store
+T0000657,3/16/2025,C009599,Male,40,Smartphone,Electronics,1,475.6,475.6,Gift Card,In-Store
+T0000658,7/28/2025,C014324,Female,59,Lipstick,Beauty,1,470.05,470.05,PayPal,In-Store
+T0000659,3/22/2024,C013836,Other,39,Bread,Groceries,1,474.7,474.7,Cash,Mobile App
+T0000660,10/2/2024,C013531,Male,38,Building Blocks,Toys,1,256.74,256.74,Debit Card,In-Store
+T0000661,4/11/2025,C020242,Female,44,Dumbbells,Sports,4,313.53,1254.12,Debit Card,In-Store
+T0000662,2/20/2024,C017530,Male,48,Jeans,Clothing,2,149.16,298.32,Cash,In-Store
+T0000663,3/24/2025,C023826,Male,23,Puzzle,Toys,3,358.06,1074.18,Debit Card,Online
+T0000664,12/16/2024,C013771,Female,44,Sneakers,Clothing,2,259.55,519.1,PayPal,Mobile App
+T0000665,3/23/2024,C024595,Male,57,Cereal,Groceries,4,22.02,88.08,PayPal,Online
+T0000666,7/4/2024,C006298,Female,51,Bedsheet,Home,1,197.4,197.4,Credit Card,Mobile App
+T0000667,3/29/2025,C008100,Male,29,Moisturizer,Beauty,3,96.5,289.5,PayPal,Mobile App
+T0000668,11/12/2025,C006831,Female,62,Cookware Set,Home,1,74.76,74.76,Cash,Online
+T0000669,7/16/2025,C017070,Male,24,Toy Car,Toys,2,249.43,498.86,Cash,Online
+T0000670,2/23/2024,C021847,Male,27,Notebook,Books,1,405.02,405.02,PayPal,In-Store
+T0000671,10/9/2024,C019160,Male,62,Jacket,Clothing,1,74.05,74.05,Credit Card,Online
+T0000672,12/8/2025,C015574,Male,34,Doll,Toys,1,20.56,20.56,Cash,Online
+T0000673,5/26/2025,C002996,Male,43,Jeans,Clothing,5,307.87,1539.35,Credit Card,Online
+T0000674,6/6/2024,C022982,Male,38,Dumbbells,Sports,5,168.79,843.95,PayPal,Online
+T0000675,10/22/2025,C024796,Female,45,Storage Box,Home,3,103.36,310.08,Credit Card,Mobile App
+T0000676,5/17/2024,C008215,Male,63,Shampoo,Beauty,1,332.95,332.95,Gift Card,In-Store
+T0000677,5/16/2025,C006219,Male,19,Water Bottle,Sports,3,238.75,716.25,Cash,Mobile App
+T0000678,9/5/2025,C018171,Male,60,Bread,Groceries,1,405.16,405.16,PayPal,In-Store
+T0000679,1/10/2025,C014880,Other,18,Storage Box,Home,2,493.51,987.02,Debit Card,Online
+T0000680,1/7/2025,C020323,Male,53,Cookbook,Books,2,43.11,86.22,Gift Card,In-Store
+T0000681,11/30/2025,C016304,Male,43,Cookware Set,Home,2,402.09,804.18,Cash,In-Store
+T0000682,4/8/2024,C017145,Male,46,Bluetooth Speaker,Electronics,1,95,95,Debit Card,Online
+T0000683,4/19/2024,C015905,Male,38,Dress,Clothing,1,393.66,393.66,Gift Card,Mobile App
+T0000684,5/16/2025,C017231,Male,28,Running Shoes,Sports,1,158.94,158.94,Credit Card,In-Store
+T0000685,3/13/2024,C000429,Male,57,Yoga Mat,Sports,1,41.65,41.65,PayPal,Mobile App
+T0000686,7/25/2025,C024363,Female,28,Shampoo,Beauty,1,159.3,159.3,Gift Card,In-Store
+T0000687,3/13/2024,C009959,Male,53,Headphones,Electronics,1,82.22,82.22,Credit Card,Mobile App
+T0000688,1/29/2025,C006209,Male,56,Cookware Set,Home,2,41.9,83.8,Gift Card,Mobile App
+T0000689,7/25/2025,C013605,Male,57,Storage Box,Home,2,103.36,206.72,PayPal,Mobile App
+T0000690,4/16/2024,C005467,Male,52,Notebook,Books,1,405.02,405.02,Gift Card,In-Store
+T0000691,9/6/2025,C014517,Female,51,Cookware Set,Home,1,41.9,41.9,Cash,In-Store
+T0000692,11/27/2024,C019937,Male,64,Novel,Books,1,128.4,128.4,PayPal,Mobile App
+T0000693,4/8/2025,C014664,Female,41,Shampoo,Beauty,1,159.3,159.3,Cash,Mobile App
+T0000694,5/18/2024,C009891,Male,39,Cookware Set,Home,1,74.76,74.76,Debit Card,In-Store
+T0000695,12/7/2025,C009043,Male,22,Board Game,Toys,2,17.58,35.16,Credit Card,Online
+T0000696,6/8/2024,C004536,Female,50,Shampoo,Beauty,2,332.95,665.9,Debit Card,In-Store
+T0000697,8/7/2025,C013101,Male,53,Smartwatch,Electronics,4,485.11,1940.44,Cash,In-Store
+T0000698,12/7/2025,C023031,Other,64,Bedsheet,Home,1,415.23,415.23,Credit Card,Mobile App
+T0000699,3/21/2024,C001833,Female,37,Moisturizer,Beauty,2,275.62,551.24,PayPal,Online
+T0000700,10/30/2025,C019737,Male,36,Toy Car,Toys,1,249.43,249.43,Cash,Mobile App
+T0000701,7/6/2025,C018512,Male,52,Coffee,Groceries,1,65.41,65.41,Debit Card,Online
+T0000702,9/1/2025,C018850,Male,60,Sunscreen,Beauty,1,102.01,102.01,PayPal,In-Store
+T0000703,5/15/2024,C011016,Male,34,Jeans,Clothing,1,218.81,218.81,Gift Card,In-Store
+T0000704,2/12/2025,C016444,Female,62,Smartwatch,Electronics,1,15.19,15.19,PayPal,Mobile App
+T0000705,2/8/2025,C021373,Male,60,Bedsheet,Home,2,415.23,830.46,Debit Card,Online
+T0000706,3/16/2025,C010598,Male,51,Doll,Toys,1,58.41,58.41,Credit Card,Mobile App
+T0000707,1/9/2025,C011414,Male,26,Perfume,Beauty,2,300.96,601.92,Gift Card,Mobile App
+T0000708,11/8/2024,C005547,Female,43,Board Game,Toys,1,17.58,17.58,Gift Card,Online
+T0000709,8/27/2024,C006544,Male,19,Headphones,Electronics,1,82.22,82.22,Credit Card,Online
+T0000710,9/27/2025,C004840,Female,26,Milk,Groceries,1,89.41,89.41,Credit Card,In-Store
+T0000711,1/24/2024,C010875,Male,26,Bedsheet,Home,2,197.4,394.8,Debit Card,Mobile App
+T0000712,9/21/2024,C017984,Female,57,Board Game,Toys,1,263.75,263.75,Credit Card,In-Store
+T0000713,11/10/2025,C017263,Male,34,Textbook,Books,4,436.37,1745.48,Credit Card,In-Store
+T0000714,12/14/2025,C020250,Female,18,Doll,Toys,2,320.02,640.04,Credit Card,Online
+T0000715,10/4/2024,C021725,Other,42,Running Shoes,Sports,1,158.94,158.94,Credit Card,In-Store
+T0000716,1/24/2025,C016664,Male,60,Sneakers,Clothing,4,27.99,111.96,PayPal,Mobile App
+T0000717,7/9/2024,C006517,Male,57,Smartwatch,Electronics,2,485.11,970.22,Credit Card,Online
+T0000718,12/7/2024,C016055,Female,59,Coffee,Groceries,1,222.88,222.88,Cash,Mobile App
+T0000719,10/2/2025,C009907,Male,42,Shampoo,Beauty,2,332.95,665.9,Credit Card,Mobile App
+T0000720,1/31/2025,C000966,Male,56,Notebook,Books,2,465.2,930.4,Debit Card,In-Store
+T0000721,5/20/2024,C002877,Male,52,Running Shoes,Sports,1,158.94,158.94,PayPal,Online
+T0000722,3/12/2025,C010237,Male,20,Jeans,Clothing,2,149.16,298.32,Gift Card,Online
+T0000723,5/21/2024,C019040,Male,54,Dumbbells,Sports,2,36.46,72.92,Cash,Mobile App
+T0000724,5/18/2024,C014093,Male,61,Textbook,Books,2,402.82,805.64,Cash,Online
+T0000725,5/1/2024,C006034,Female,61,Cookware Set,Home,2,41.9,83.8,Cash,In-Store
+T0000726,3/29/2025,C024433,Male,47,Rice,Groceries,1,343.7,343.7,Debit Card,Online
+T0000727,1/27/2024,C024984,Male,55,Jacket,Clothing,2,186.35,372.7,Gift Card,Mobile App
+T0000728,9/2/2025,C007609,Male,51,Sneakers,Clothing,1,27.99,27.99,Credit Card,Mobile App
+T0000729,5/29/2025,C019816,Female,29,T-Shirt,Clothing,1,264.75,264.75,PayPal,In-Store
+T0000730,6/16/2024,C006333,Male,36,T-Shirt,Clothing,2,264.75,529.5,Credit Card,In-Store
+T0000731,11/18/2025,C006647,Male,54,Sneakers,Clothing,1,298.25,298.25,PayPal,Mobile App
+T0000732,11/28/2024,C014993,Other,61,Water Bottle,Sports,1,444.17,444.17,Credit Card,Mobile App
+T0000733,11/16/2024,C012916,Male,34,Puzzle,Toys,5,381.59,1907.95,Gift Card,Online
+T0000734,2/13/2024,C008052,Male,27,Sunscreen,Beauty,2,27.39,54.78,Credit Card,Mobile App
+T0000735,10/7/2025,C001616,Male,64,Cookware Set,Home,1,74.76,74.76,PayPal,In-Store
+T0000736,6/19/2024,C013844,Female,29,Sunscreen,Beauty,2,166.04,332.08,Gift Card,Online
+T0000737,10/23/2025,C014802,Male,33,Novel,Books,1,208.14,208.14,Debit Card,Mobile App
+T0000738,2/6/2025,C013552,Female,41,T-Shirt,Clothing,2,264.75,529.5,Debit Card,In-Store
+T0000739,12/30/2025,C006617,Female,36,Textbook,Books,1,318.53,318.53,Cash,Mobile App
+T0000740,5/6/2024,C002989,Male,25,Puzzle,Toys,1,358.06,358.06,Credit Card,Mobile App
+T0000741,6/7/2025,C020057,Male,48,Toy Car,Toys,1,282.83,282.83,Credit Card,Online
+T0000742,11/6/2025,C004919,Male,38,Towel,Home,1,7.73,7.73,Credit Card,In-Store
+T0000743,4/1/2025,C009463,Male,34,Coffee,Groceries,1,222.88,222.88,Debit Card,Online
+T0000744,9/16/2024,C000401,Female,40,Football,Sports,1,62.36,62.36,Gift Card,Online
+T0000745,5/20/2025,C007795,Male,54,Notebook,Books,1,465.2,465.2,PayPal,In-Store
+T0000746,9/7/2025,C019665,Male,33,Smartwatch,Electronics,3,15.19,45.57,Gift Card,Mobile App
+T0000747,7/31/2024,C001603,Other,23,Building Blocks,Toys,1,454.25,454.25,Cash,Online
+T0000748,2/3/2024,C021857,Male,25,Cookbook,Books,1,43.11,43.11,Cash,Online
+T0000749,3/2/2025,C005841,Male,42,Bluetooth Speaker,Electronics,5,110.11,550.55,PayPal,Mobile App
+T0000750,2/6/2024,C003052,Female,35,Shampoo,Beauty,1,159.3,159.3,PayPal,Online
+T0000751,7/17/2025,C002128,Female,42,Novel,Books,1,379,379,Credit Card,Mobile App
+T0000752,6/23/2025,C013559,Male,29,Cereal,Groceries,1,22.02,22.02,Gift Card,Online
+T0000753,10/6/2025,C017333,Male,32,Towel,Home,1,408.65,408.65,PayPal,Mobile App
+T0000754,6/22/2025,C018847,Male,43,Bread,Groceries,1,474.7,474.7,Gift Card,Mobile App
+T0000755,10/9/2025,C016310,Female,58,Cookware Set,Home,1,74.76,74.76,Cash,Online
+T0000756,1/25/2024,C015234,Male,62,T-Shirt,Clothing,2,95.79,191.58,Gift Card,In-Store
+T0000757,12/7/2024,C011458,Male,43,Headphones,Electronics,2,82.22,164.44,Debit Card,Mobile App
+T0000758,3/10/2024,C010086,Female,64,Milk,Groceries,4,37.2,148.8,Credit Card,Online
+T0000759,2/9/2025,C023738,Male,49,Cereal,Groceries,1,455.11,455.11,Debit Card,Online
+T0000760,12/12/2024,C022036,Female,27,Novel,Books,5,208.14,1040.7,Debit Card,In-Store
+T0000761,4/16/2025,C017596,Female,33,Football,Sports,1,432.24,432.24,Credit Card,Mobile App
+T0000762,11/25/2025,C010339,Male,24,Towel,Home,1,7.73,7.73,Debit Card,Mobile App
+T0000763,12/28/2024,C002170,Male,34,Building Blocks,Toys,1,160.61,160.61,Cash,In-Store
+T0000764,6/18/2024,C018710,Male,40,Novel,Books,1,379,379,Gift Card,Online
+T0000765,11/18/2024,C023261,Other,43,Puzzle,Toys,2,64.2,128.4,Credit Card,In-Store
+T0000766,4/7/2025,C009917,Male,38,Shampoo,Beauty,1,262.43,262.43,Debit Card,Online
+T0000767,2/8/2024,C006623,Male,39,Doll,Toys,1,20.56,20.56,PayPal,Mobile App
+T0000768,12/14/2024,C015843,Male,24,Dress,Clothing,1,230.75,230.75,Cash,Online
+T0000769,6/12/2025,C022175,Male,31,Novel,Books,1,128.4,128.4,PayPal,In-Store
+T0000770,1/5/2024,C010191,Male,32,Bluetooth Speaker,Electronics,1,95,95,Cash,In-Store
+T0000771,6/17/2025,C021594,Male,24,Bluetooth Speaker,Electronics,2,110.11,220.22,Gift Card,In-Store
+T0000772,7/24/2024,C006310,Female,26,Coffee,Groceries,3,250.11,750.33,PayPal,Mobile App
+T0000773,6/1/2024,C005161,Female,25,Bread,Groceries,5,482.99,2414.95,Gift Card,Mobile App
+T0000774,7/30/2024,C017778,Female,40,Bluetooth Speaker,Electronics,1,110.11,110.11,Cash,Online
+T0000775,9/7/2024,C005613,Male,46,Towel,Home,1,408.65,408.65,Gift Card,In-Store
+T0000776,1/30/2024,C015426,Male,35,T-Shirt,Clothing,1,155.6,155.6,PayPal,Online
+T0000777,2/5/2025,C005865,Male,48,Perfume,Beauty,3,300.96,902.88,Gift Card,In-Store
+T0000778,7/21/2024,C023361,Male,47,Cereal,Groceries,2,22.02,44.04,PayPal,Mobile App
+T0000779,12/16/2025,C015345,Male,56,Smartwatch,Electronics,1,485.11,485.11,PayPal,In-Store
+T0000780,5/27/2024,C020216,Other,52,Sneakers,Clothing,1,298.25,298.25,Debit Card,Mobile App
+T0000781,11/28/2024,C014854,Female,35,Doll,Toys,1,20.56,20.56,PayPal,Online
+T0000782,4/17/2025,C005597,Female,59,Bedsheet,Home,2,139.32,278.64,Gift Card,Online
+T0000783,4/19/2024,C010679,Male,56,Building Blocks,Toys,1,454.25,454.25,Gift Card,In-Store
+T0000784,2/27/2025,C007818,Male,34,Yoga Mat,Sports,4,365.86,1463.44,PayPal,In-Store
+T0000785,8/1/2024,C022743,Male,31,Cereal,Groceries,2,455.11,910.22,Gift Card,In-Store
+T0000786,8/29/2024,C005672,Male,48,Water Bottle,Sports,1,444.17,444.17,Credit Card,Mobile App
+T0000787,11/29/2024,C018190,Male,41,Sunscreen,Beauty,1,166.04,166.04,Cash,In-Store
+T0000788,4/21/2024,C022463,Male,52,Yoga Mat,Sports,1,386.78,386.78,PayPal,Mobile App
+T0000789,8/10/2024,C004553,Male,61,Smartwatch,Electronics,1,485.11,485.11,Debit Card,In-Store
+T0000790,2/3/2025,C020172,Male,62,Rice,Groceries,4,53.35,213.4,Debit Card,Mobile App
+T0000791,8/6/2025,C022268,Female,51,Rice,Groceries,4,343.7,1374.8,Credit Card,Mobile App
+T0000792,6/6/2025,C013245,Male,20,Football,Sports,1,182.44,182.44,Cash,Mobile App
+T0000793,12/21/2025,C018352,Female,54,Smartphone,Electronics,1,190.4,190.4,Credit Card,Online
+T0000794,8/27/2025,C012920,Male,60,Water Bottle,Sports,2,238.75,477.5,PayPal,In-Store
+T0000795,8/4/2024,C021709,Male,57,Storage Box,Home,2,493.51,987.02,Debit Card,Mobile App
+T0000796,1/3/2025,C013672,Other,43,Novel,Books,1,379,379,Debit Card,Online
+T0000797,1/17/2024,C004719,Male,40,Dumbbells,Sports,2,168.79,337.58,Debit Card,Online
+T0000798,3/1/2025,C014944,Male,61,Dumbbells,Sports,1,168.79,168.79,Gift Card,Online
+T0000799,3/10/2025,C018090,Female,56,Lamp,Home,1,273.63,273.63,Debit Card,Online
+T0000800,1/8/2024,C018938,Female,32,Yoga Mat,Sports,5,41.65,208.25,PayPal,Mobile App
+T0000801,2/4/2024,C001241,Male,21,Shampoo,Beauty,1,159.3,159.3,Credit Card,Mobile App
+T0000802,3/22/2024,C004656,Male,46,Water Bottle,Sports,1,444.17,444.17,PayPal,Mobile App
+T0000803,9/16/2025,C002899,Male,39,Cookware Set,Home,2,74.76,149.52,Gift Card,Mobile App
+T0000804,2/24/2024,C011258,Male,42,Football,Sports,1,182.44,182.44,PayPal,Mobile App
+T0000805,12/5/2024,C013796,Female,30,Towel,Home,2,408.65,817.3,Debit Card,Online
+T0000806,11/7/2024,C023822,Male,35,Toy Car,Toys,1,249.43,249.43,PayPal,Mobile App
+T0000807,2/22/2024,C021507,Female,50,Towel,Home,1,408.65,408.65,Cash,In-Store
+T0000808,6/1/2025,C002519,Female,33,T-Shirt,Clothing,1,155.6,155.6,Gift Card,In-Store
+T0000809,9/20/2024,C000466,Male,62,Cookbook,Books,1,43.11,43.11,Gift Card,Mobile App
+T0000810,4/2/2025,C012117,Male,59,Running Shoes,Sports,1,158.94,158.94,PayPal,Online
+T0000811,2/3/2024,C011235,Male,61,Cookbook,Books,2,148.43,296.86,PayPal,In-Store
+T0000812,11/7/2025,C014424,Male,19,Milk,Groceries,2,305.73,611.46,Gift Card,Mobile App
+T0000813,10/19/2025,C008664,Other,52,Laptop,Electronics,1,33.75,33.75,PayPal,In-Store
+T0000814,5/2/2025,C024450,Male,59,Rice,Groceries,1,343.7,343.7,PayPal,In-Store
+T0000815,6/27/2025,C014246,Male,51,Jeans,Clothing,2,218.81,437.62,PayPal,Mobile App
+T0000816,11/30/2025,C001345,Male,47,Cookware Set,Home,1,402.09,402.09,PayPal,Mobile App
+T0000817,10/3/2024,C008752,Male,30,Cereal,Groceries,1,22.02,22.02,PayPal,Mobile App
+T0000818,11/19/2025,C019292,Male,30,Toy Car,Toys,5,282.83,1414.15,Debit Card,In-Store
+T0000819,11/19/2025,C000278,Male,35,Smartphone,Electronics,4,475.6,1902.4,Credit Card,Mobile App
+T0000820,4/1/2025,C011519,Male,49,Water Bottle,Sports,1,320.59,320.59,Debit Card,Online
+T0000821,4/4/2024,C001864,Male,49,Football,Sports,1,62.36,62.36,Credit Card,Online
+T0000822,1/19/2025,C021509,Male,52,T-Shirt,Clothing,1,155.6,155.6,Credit Card,Mobile App
+T0000823,10/28/2024,C015302,Male,56,Milk,Groceries,1,37.2,37.2,Cash,In-Store
+T0000824,6/14/2024,C002425,Female,63,Milk,Groceries,2,37.2,74.4,PayPal,In-Store
+T0000825,9/28/2024,C005831,Female,46,Bread,Groceries,1,474.7,474.7,Debit Card,Mobile App
+T0000826,10/22/2025,C016124,Male,46,Jacket,Clothing,1,149.61,149.61,Debit Card,Mobile App
+T0000827,3/28/2025,C023443,Female,61,Textbook,Books,3,402.82,1208.46,Credit Card,Online
+T0000828,9/13/2024,C014611,Male,33,Toy Car,Toys,2,282.83,565.66,Credit Card,Online
+T0000829,6/4/2024,C022940,Female,61,Bread,Groceries,2,482.99,965.98,Gift Card,Mobile App
+T0000830,3/22/2025,C013236,Male,64,Bedsheet,Home,1,139.32,139.32,Credit Card,In-Store
+T0000831,8/3/2025,C017541,Other,27,T-Shirt,Clothing,1,95.79,95.79,PayPal,Online
+T0000832,7/1/2025,C011144,Male,47,Shampoo,Beauty,1,159.3,159.3,Debit Card,Online
+T0000833,1/28/2025,C021651,Male,42,Headphones,Electronics,2,82.22,164.44,Credit Card,Mobile App
+T0000834,3/27/2024,C020736,Female,56,Bedsheet,Home,2,415.23,830.46,Credit Card,Online
+T0000835,8/30/2025,C007815,Female,37,Puzzle,Toys,1,381.59,381.59,Gift Card,Mobile App
+T0000836,6/30/2025,C014723,Male,22,Lamp,Home,1,181.59,181.59,Credit Card,In-Store
+T0000837,5/1/2024,C006937,Male,18,Lipstick,Beauty,1,388.69,388.69,Gift Card,Online
+T0000838,3/14/2024,C001209,Male,47,Sneakers,Clothing,1,27.99,27.99,Credit Card,In-Store
+T0000839,9/5/2024,C022981,Male,20,Headphones,Electronics,2,82.22,164.44,Debit Card,Mobile App
+T0000840,11/10/2024,C003189,Female,62,Textbook,Books,1,436.37,436.37,Gift Card,Online
+T0000841,5/24/2025,C019497,Male,31,Bluetooth Speaker,Electronics,4,95,380,Debit Card,In-Store
+T0000842,11/25/2025,C013174,Female,47,Building Blocks,Toys,1,256.74,256.74,Cash,Online
+T0000843,6/26/2024,C010994,Male,21,Yoga Mat,Sports,1,365.86,365.86,Debit Card,In-Store
+T0000844,1/13/2025,C018135,Male,35,Water Bottle,Sports,2,238.75,477.5,Gift Card,Online
+T0000845,10/9/2025,C020069,Female,54,Bluetooth Speaker,Electronics,1,417.06,417.06,PayPal,Online
+T0000846,7/2/2024,C002921,Male,42,Smartphone,Electronics,2,190.4,380.8,PayPal,Mobile App
+T0000847,5/9/2024,C006756,Male,18,Water Bottle,Sports,1,444.17,444.17,PayPal,Online
+T0000848,12/9/2025,C001233,Male,63,Football,Sports,1,182.44,182.44,Gift Card,Online
+T0000849,3/4/2025,C000150,Male,32,Cereal,Groceries,1,133.1,133.1,Credit Card,Mobile App
+T0000850,1/5/2025,C024941,Male,26,Football,Sports,2,62.36,124.72,PayPal,Mobile App
+T0000851,2/24/2024,C006348,Male,32,Bread,Groceries,1,405.16,405.16,PayPal,Online
+T0000852,2/14/2024,C001771,Male,41,Running Shoes,Sports,2,165.97,331.94,Debit Card,In-Store
+T0000853,9/23/2025,C024852,Female,21,Cereal,Groceries,2,22.02,44.04,Credit Card,Mobile App
+T0000854,1/30/2024,C015895,Male,29,Jeans,Clothing,1,307.87,307.87,Debit Card,Mobile App
+T0000855,8/16/2025,C010682,Female,54,Yoga Mat,Sports,2,365.86,731.72,Debit Card,Online
+T0000856,4/10/2024,C007770,Male,54,Sneakers,Clothing,5,27.99,139.95,PayPal,Online
+T0000857,8/22/2025,C015874,Male,60,Bedsheet,Home,1,197.4,197.4,Debit Card,Mobile App
+T0000858,1/31/2025,C012239,Male,23,Jacket,Clothing,2,149.61,299.22,Cash,In-Store
+T0000859,5/10/2024,C001052,Male,56,Cereal,Groceries,1,22.02,22.02,Cash,Online
+T0000860,4/21/2025,C015027,Female,63,Cookbook,Books,4,43.11,172.44,Debit Card,In-Store
+T0000861,10/15/2025,C020039,Male,41,Jeans,Clothing,1,307.87,307.87,Credit Card,In-Store
+T0000862,8/9/2024,C019385,Female,28,Bedsheet,Home,1,415.23,415.23,Credit Card,Mobile App
+T0000863,9/9/2024,C008121,Female,30,Toy Car,Toys,4,386.63,1546.52,Gift Card,Online
+T0000864,1/6/2024,C013690,Male,51,Textbook,Books,1,318.53,318.53,Gift Card,Online
+T0000865,2/7/2025,C015705,Male,42,Cookware Set,Home,3,402.09,1206.27,PayPal,Online
+T0000866,1/13/2024,C022714,Male,24,Storage Box,Home,1,103.36,103.36,Debit Card,In-Store
+T0000867,10/25/2025,C002974,Male,21,Milk,Groceries,3,305.73,917.19,Debit Card,Mobile App
+T0000868,8/7/2025,C024488,Male,25,Cookbook,Books,3,43.11,129.33,PayPal,Online
+T0000869,1/14/2025,C020540,Female,37,Jacket,Clothing,2,186.35,372.7,PayPal,Mobile App
+T0000870,2/3/2024,C009719,Female,46,Cookware Set,Home,2,402.09,804.18,Credit Card,Mobile App
+T0000871,2/26/2024,C016867,Male,62,Toy Car,Toys,2,386.63,773.26,Credit Card,In-Store
+T0000872,9/25/2025,C001340,Female,63,Sunscreen,Beauty,1,166.04,166.04,Gift Card,Mobile App
+T0000873,12/27/2025,C006709,Male,27,Storage Box,Home,5,103.36,516.8,Gift Card,Online
+T0000874,8/17/2025,C023031,Male,60,Toy Car,Toys,1,386.63,386.63,Cash,In-Store
+T0000875,3/9/2025,C009082,Male,51,Water Bottle,Sports,1,320.59,320.59,Cash,In-Store
+T0000876,6/23/2025,C004021,Female,43,Lamp,Home,2,144.06,288.12,PayPal,Mobile App
+T0000877,11/20/2025,C022716,Male,58,Building Blocks,Toys,1,160.61,160.61,Credit Card,Online
+T0000878,7/2/2024,C009450,Male,20,Textbook,Books,2,318.53,637.06,Cash,Online
+T0000879,6/3/2024,C006694,Male,23,Lamp,Home,1,181.59,181.59,PayPal,Mobile App
+T0000880,5/15/2024,C015529,Female,22,Children Book,Books,1,271.97,271.97,Credit Card,In-Store
+T0000881,1/23/2024,C007613,Male,22,Laptop,Electronics,2,302.55,605.1,Gift Card,In-Store
+T0000882,8/30/2025,C021819,Male,64,Bedsheet,Home,2,415.23,830.46,PayPal,In-Store
+T0000883,11/9/2024,C005628,Female,40,T-Shirt,Clothing,1,155.6,155.6,Cash,In-Store
+T0000884,12/27/2024,C009319,Female,26,Jeans,Clothing,1,218.81,218.81,Gift Card,In-Store
+T0000885,12/26/2025,C022704,Male,52,Jacket,Clothing,2,149.61,299.22,Debit Card,Online
+T0000886,8/11/2025,C004145,Female,37,Coffee,Groceries,1,65.41,65.41,Debit Card,Online
+T0000887,2/5/2024,C021809,Female,59,Puzzle,Toys,2,64.2,128.4,Cash,In-Store
+T0000888,6/30/2025,C009882,Male,52,Jeans,Clothing,1,307.87,307.87,PayPal,Online
+T0000889,11/23/2024,C005114,Male,35,Children Book,Books,2,446.82,893.64,Cash,In-Store
+T0000890,8/10/2025,C021853,Male,34,Board Game,Toys,1,263.75,263.75,Cash,Mobile App
+T0000891,5/5/2025,C001314,Male,41,Toy Car,Toys,1,282.83,282.83,Cash,Online
+T0000892,8/13/2024,C014614,Female,20,Football,Sports,2,62.36,124.72,Credit Card,Mobile App
+T0000893,6/23/2025,C007280,Female,49,Towel,Home,2,354.89,709.78,Credit Card,Mobile App
+T0000894,11/18/2025,C002864,Male,52,Running Shoes,Sports,4,366.16,1464.64,PayPal,In-Store
+T0000895,6/7/2025,C001837,Male,55,Yoga Mat,Sports,1,41.65,41.65,Debit Card,Mobile App
+T0000896,1/30/2025,C012217,Male,30,Shampoo,Beauty,1,262.43,262.43,Cash,In-Store
+T0000897,7/28/2025,C002871,Male,64,Notebook,Books,5,84.8,424,PayPal,In-Store
+T0000898,3/10/2025,C023875,Female,42,Building Blocks,Toys,1,256.74,256.74,Debit Card,Online
+T0000899,6/21/2025,C010991,Male,26,Bedsheet,Home,3,197.4,592.2,Credit Card,Online
+T0000900,10/6/2024,C013583,Male,21,Dumbbells,Sports,1,313.53,313.53,Gift Card,Online
+T0000901,1/25/2025,C009486,Male,31,Jacket,Clothing,2,186.35,372.7,Cash,Mobile App
+T0000902,7/26/2025,C024244,Female,54,Lamp,Home,2,181.59,363.18,Credit Card,Online
+T0000903,10/17/2025,C020859,Female,51,Rice,Groceries,2,343.7,687.4,PayPal,Online
+T0000904,12/5/2025,C021129,Male,28,Textbook,Books,1,402.82,402.82,Cash,In-Store
+T0000905,1/5/2025,C019041,Female,58,Yoga Mat,Sports,2,386.78,773.56,Cash,Mobile App
+T0000906,5/2/2024,C012230,Male,20,Water Bottle,Sports,1,444.17,444.17,Cash,Online
+T0000907,5/29/2024,C010476,Female,45,Laptop,Electronics,1,433.76,433.76,Debit Card,Online
+T0000908,3/5/2025,C020849,Female,46,Shampoo,Beauty,2,159.3,318.6,Cash,Mobile App
+T0000909,7/17/2024,C020580,Male,26,Lamp,Home,1,273.63,273.63,Gift Card,In-Store
+T0000910,12/2/2025,C009866,Female,20,Novel,Books,1,128.4,128.4,Gift Card,Mobile App
+T0000911,5/27/2024,C000423,Male,42,Novel,Books,1,128.4,128.4,Cash,In-Store
+T0000912,6/15/2024,C003357,Male,51,Cereal,Groceries,2,455.11,910.22,Debit Card,Mobile App
+T0000913,6/22/2025,C017436,Male,29,Water Bottle,Sports,2,444.17,888.34,PayPal,In-Store
+T0000914,5/14/2024,C000570,Female,59,Bluetooth Speaker,Electronics,1,95,95,Cash,Online
+T0000915,9/3/2025,C017142,Female,26,Notebook,Books,1,405.02,405.02,Credit Card,Mobile App
+T0000916,5/11/2024,C022749,Male,32,Sneakers,Clothing,1,298.25,298.25,Debit Card,Online
+T0000917,3/11/2025,C022637,Male,57,Smartwatch,Electronics,1,15.19,15.19,PayPal,In-Store
+T0000918,4/20/2024,C001075,Male,42,Dress,Clothing,5,393.66,1968.3,PayPal,Online
+T0000919,3/8/2024,C009885,Male,22,Headphones,Electronics,2,82.22,164.44,Credit Card,Mobile App
+T0000920,7/23/2024,C006055,Male,28,Yoga Mat,Sports,2,365.86,731.72,Credit Card,Online
+T0000921,12/22/2024,C011541,Male,51,Towel,Home,1,354.89,354.89,Gift Card,Mobile App
+T0000922,8/15/2025,C000459,Male,41,Bluetooth Speaker,Electronics,2,417.06,834.12,Cash,Online
+T0000923,4/11/2024,C007013,Male,32,Smartphone,Electronics,1,190.4,190.4,Gift Card,Online
+T0000924,4/19/2024,C005927,Female,55,Running Shoes,Sports,1,366.16,366.16,Debit Card,Mobile App
+T0000925,4/25/2024,C024950,Female,25,Lipstick,Beauty,1,470.05,470.05,Credit Card,Mobile App
+T0000926,1/4/2025,C023093,Female,22,Lamp,Home,1,181.59,181.59,Credit Card,In-Store
+T0000927,1/29/2025,C009294,Female,43,Bluetooth Speaker,Electronics,1,95,95,PayPal,Online
+T0000928,10/24/2024,C014024,Male,35,Lipstick,Beauty,1,470.05,470.05,Cash,Online
+T0000929,5/18/2025,C022024,Male,23,Running Shoes,Sports,1,366.16,366.16,Gift Card,Mobile App
+T0000930,5/26/2024,C012938,Female,54,T-Shirt,Clothing,3,95.79,287.37,Debit Card,Online
+T0000931,12/12/2024,C006563,Male,30,Dress,Clothing,1,393.66,393.66,Debit Card,In-Store
+T0000932,8/18/2025,C019453,Female,45,Bread,Groceries,1,405.16,405.16,PayPal,Mobile App
+T0000933,5/11/2025,C016759,Female,22,Lipstick,Beauty,1,388.69,388.69,Credit Card,Online
+T0000934,5/24/2025,C007564,Male,30,Bedsheet,Home,2,415.23,830.46,Credit Card,Mobile App
+T0000935,3/10/2024,C016323,Male,34,Novel,Books,1,208.14,208.14,PayPal,Mobile App
+T0000936,11/6/2024,C020381,Male,57,Jeans,Clothing,2,149.16,298.32,Gift Card,In-Store
+T0000937,10/27/2024,C021696,Female,62,Dress,Clothing,2,393.66,787.32,Gift Card,In-Store
+T0000938,1/19/2024,C001036,Female,49,Storage Box,Home,2,493.51,987.02,PayPal,In-Store
+T0000939,4/15/2025,C001180,Male,46,Perfume,Beauty,4,48.8,195.2,Debit Card,In-Store
+T0000940,11/15/2024,C023453,Female,20,T-Shirt,Clothing,1,264.75,264.75,Gift Card,Mobile App
+T0000941,7/21/2025,C022459,Male,57,Running Shoes,Sports,1,158.94,158.94,PayPal,Mobile App
+T0000942,2/27/2024,C012825,Female,51,Lamp,Home,3,144.06,432.18,Gift Card,Mobile App
+T0000943,10/18/2024,C010502,Male,57,Board Game,Toys,1,17.58,17.58,Debit Card,In-Store
+T0000944,8/20/2025,C000882,Male,44,Building Blocks,Toys,1,256.74,256.74,Credit Card,In-Store
+T0000945,2/25/2025,C011511,Male,30,Shampoo,Beauty,1,332.95,332.95,Debit Card,Mobile App
+T0000946,3/27/2024,C022545,Male,62,Yoga Mat,Sports,1,365.86,365.86,Cash,Online
+T0000947,11/29/2024,C001225,Female,50,Cookware Set,Home,3,41.9,125.7,Cash,Online
+T0000948,1/23/2024,C010372,Female,23,Yoga Mat,Sports,1,365.86,365.86,Cash,Mobile App
+T0000949,5/15/2025,C003279,Male,41,Building Blocks,Toys,1,256.74,256.74,PayPal,Mobile App
+T0000950,9/21/2025,C009815,Female,36,Jacket,Clothing,1,74.05,74.05,PayPal,Mobile App
+T0000951,7/2/2025,C007015,Female,33,Novel,Books,4,379,1516,Cash,Mobile App
+T0000952,8/19/2024,C020466,Male,57,Building Blocks,Toys,4,160.61,642.44,Gift Card,In-Store
+T0000953,8/3/2025,C017402,Female,45,Laptop,Electronics,1,302.55,302.55,Cash,Online
+T0000954,11/3/2024,C014186,Male,50,Lamp,Home,2,144.06,288.12,Debit Card,In-Store
+T0000955,10/1/2025,C016888,Female,58,Milk,Groceries,1,37.2,37.2,Credit Card,Mobile App
+T0000956,7/10/2024,C018903,Female,30,Cookbook,Books,1,148.43,148.43,Cash,Mobile App
+T0000957,9/21/2025,C014213,Male,60,Building Blocks,Toys,1,256.74,256.74,Cash,In-Store
+T0000958,6/3/2024,C024460,Male,62,Milk,Groceries,2,305.73,611.46,PayPal,In-Store
+T0000959,7/27/2024,C013515,Female,42,Dumbbells,Sports,1,313.53,313.53,Cash,Mobile App
+T0000960,2/19/2025,C007815,Male,59,Milk,Groceries,1,305.73,305.73,Credit Card,Online
+T0000961,5/12/2025,C018345,Female,53,Sunscreen,Beauty,3,166.04,498.12,Debit Card,Online
+T0000962,1/30/2024,C008468,Female,44,T-Shirt,Clothing,1,264.75,264.75,Credit Card,Mobile App
+T0000963,1/21/2024,C001813,Male,55,Doll,Toys,3,20.56,61.68,Credit Card,In-Store
+T0000964,11/4/2025,C002960,Female,24,Running Shoes,Sports,1,165.97,165.97,Credit Card,Mobile App
+T0000965,5/3/2024,C017104,Male,22,Children Book,Books,1,271.97,271.97,PayPal,Online
+T0000966,5/5/2024,C010270,Female,60,Yoga Mat,Sports,1,386.78,386.78,Debit Card,In-Store
+T0000967,4/19/2024,C005740,Male,62,Jeans,Clothing,1,218.81,218.81,PayPal,In-Store
+T0000968,5/17/2025,C017481,Female,48,Laptop,Electronics,2,433.76,867.52,Gift Card,In-Store
+T0000969,9/9/2024,C009101,Male,40,Water Bottle,Sports,1,320.59,320.59,Cash,In-Store
+T0000970,9/12/2025,C001141,Male,59,Dumbbells,Sports,2,168.79,337.58,Cash,Mobile App
+T0000971,10/16/2025,C022958,Female,27,Coffee,Groceries,1,222.88,222.88,PayPal,In-Store
+T0000972,2/6/2025,C008374,Female,49,Textbook,Books,2,402.82,805.64,Cash,Online
+T0000973,3/25/2025,C020689,Female,60,Children Book,Books,1,97.35,97.35,Cash,Online
+T0000974,2/26/2025,C010903,Male,47,Bedsheet,Home,1,197.4,197.4,Debit Card,Mobile App
+T0000975,3/8/2024,C011530,Female,56,Lamp,Home,1,144.06,144.06,PayPal,Mobile App
+T0000976,2/23/2024,C021017,Male,48,Board Game,Toys,2,216.63,433.26,Debit Card,Online
+T0000977,10/5/2025,C010013,Female,35,Dress,Clothing,1,393.66,393.66,Credit Card,Online
+T0000978,10/26/2025,C004263,Male,53,Cookware Set,Home,3,74.76,224.28,PayPal,In-Store
+T0000979,6/26/2024,C022527,Male,19,Bread,Groceries,1,474.7,474.7,Debit Card,Online
+T0000980,7/5/2024,C012895,Female,31,Shampoo,Beauty,5,262.43,1312.15,Credit Card,Online
+T0000981,9/18/2025,C020534,Male,30,Dumbbells,Sports,1,168.79,168.79,Debit Card,In-Store
+T0000982,2/14/2025,C020251,Female,46,Laptop,Electronics,1,33.75,33.75,Debit Card,Online
+T0000983,8/3/2025,C003846,Male,29,Jacket,Clothing,1,74.05,74.05,PayPal,Mobile App
+T0000984,8/17/2024,C023383,Male,56,T-Shirt,Clothing,1,95.79,95.79,Cash,Mobile App
+T0000985,5/13/2024,C014134,Male,19,Moisturizer,Beauty,2,275.62,551.24,Cash,Mobile App
+T0000986,7/3/2024,C013387,Male,49,Lipstick,Beauty,2,447.94,895.88,Cash,Online
+T0000987,9/11/2024,C012113,Male,30,Sunscreen,Beauty,1,102.01,102.01,Credit Card,In-Store
+T0000988,11/27/2024,C022709,Female,63,Notebook,Books,1,84.8,84.8,PayPal,Mobile App
+T0000989,3/15/2024,C003123,Male,44,Milk,Groceries,1,37.2,37.2,Cash,Online
+T0000990,12/28/2024,C019870,Male,58,Textbook,Books,2,402.82,805.64,Credit Card,In-Store
+T0000991,1/25/2025,C009913,Female,34,Football,Sports,3,62.36,187.08,Gift Card,Online
+T0000992,9/23/2024,C005567,Male,57,Jacket,Clothing,1,149.61,149.61,PayPal,Online
+T0000993,12/28/2025,C017381,Female,48,Coffee,Groceries,2,65.41,130.82,Credit Card,In-Store
+T0000994,5/26/2025,C009208,Male,51,T-Shirt,Clothing,3,155.6,466.8,Cash,In-Store
+T0000995,9/27/2024,C016941,Female,41,Novel,Books,1,208.14,208.14,Cash,Mobile App
+T0000996,6/3/2024,C018209,Male,62,Board Game,Toys,1,216.63,216.63,Debit Card,Online
+T0000997,7/6/2024,C001176,Female,52,Sneakers,Clothing,1,27.99,27.99,PayPal,In-Store
+T0000998,5/21/2025,C001337,Female,23,Textbook,Books,2,318.53,637.06,PayPal,In-Store
+T0000999,5/31/2024,C004052,Female,36,Cookbook,Books,1,118.26,118.26,Cash,Online
