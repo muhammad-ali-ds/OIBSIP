@@ -30,21 +30,6 @@ The objective of this project is to perform **Exploratory Data Analysis (EDA)** 
 
 ---
 
-## 📂 Dataset
-
-**Dataset:** Retail Sales Dataset
-
-The dataset contains information about:
-
-- Customer Details
-- Product Categories
-- Sales Amount
-- Order Dates
-- Product Information
-- Revenue
-- Customer Demographics
-
----
 
 ## 📈 Project Workflow
 
@@ -52,20 +37,15 @@ The dataset contains information about:
 
 - Imported dataset using Pandas
 - Checked dataset dimensions
-- Displayed first and last records
 
 ### 2. Data Inspection
 
 - Data types
 - Missing values
-- Duplicate records
-- Summary statistics
 
 ### 3. Data Cleaning
 
-- Removed duplicates
-- Handled missing values
-- Corrected data types (if required)
+- Dataset is cleaned already no need to clean 
 
 ### 4. Exploratory Data Analysis
 
@@ -78,7 +58,7 @@ Performed the following analyses:
 - Top 10 Best Selling Products
 - Revenue by Product Category
 - Correlation Heatmap
-- Additional Visualizations
+- Revenue by Payment Method
 
 ### 5. Business Insights
 
@@ -93,9 +73,9 @@ This project includes:
 - Line Charts
 - Bar Charts
 - Histograms
-- Count Plots
+- Pie Chart
 - Correlation Heatmap
-- Additional Business Charts
+
 
 ---
 
@@ -105,8 +85,7 @@ Some of the insights obtained include:
 
 - Identified peak sales periods.
 - Found the highest revenue-generating product categories.
-- Analyzed customer purchasing behavior.
-- Observed demographic trends.
+- Analyzed customer purchasing behavior..
 - Measured relationships between numerical variables.
 
 ---
@@ -129,50 +108,8 @@ DataAnalytics-L1-EDARetailSales/
 ├── README.md
 ├── retail_sales.csv
 ├── images/
-└── requirements.txt
+
 ```
-
----
-
-## ▶️ How to Run
-
-1. Clone this repository
-
-```bash
-git clone https://github.com/YourUsername/OIBSIP.git
-```
-
-2. Navigate to the project folder
-
-```bash
-cd DataAnalytics-L1-EDARetailSales
-```
-
-3. Install required libraries
-
-```bash
-pip install pandas numpy matplotlib seaborn jupyter
-```
-
-4. Open the notebook
-
-```bash
-jupyter notebook
-```
-
-5. Run all cells.
-
----
-
-## 📸 Output
-
-The notebook contains:
-
-- Cleaned Dataset
-- Statistical Summary
-- Multiple Visualizations
-- Business Insights
-- Final Recommendations
 
 ---
 
@@ -184,9 +121,9 @@ Data Analytics Intern
 
 Oasis Infobyte
 
-GitHub: https://github.com/YourGitHubUsername
+GitHub: https://github.com/muhammad-ali-ds
 
-LinkedIn: https://linkedin.com/in/YourLinkedInUsername
+LinkedIn: https://linkedin.com/in/muhammad-ali-175691383
 
 ---
 
