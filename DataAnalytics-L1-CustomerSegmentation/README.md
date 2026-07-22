@@ -173,7 +173,8 @@ DataAnalytics-L1-CustomerSegmentation/
 1. Clone this repository.
 
 ```bash
-git clone https://github.com/YourGitHubUsername/OIBSIP.git
+git clone https://github.com/muhammad-ali-ds/OIBSIP.git
+
 ```
 
 2. Navigate to the project folder.
@@ -220,9 +221,9 @@ The notebook includes:
 
 **Oasis Infobyte**
 
-GitHub: https://github.com/YourGitHubUsername
+GitHub: https://github.com/muhammad-ali-ds
 
-LinkedIn: https://www.linkedin.com/in/YourLinkedInUsername
+LinkedIn:  https://linkedin.com/in/muhammad-ali-175691383
 
 ---
 
