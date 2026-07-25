@@ -1,4 +1,4 @@
-# 🧹 Data Cleaning and Preprocessing
+# 🧹 Data Cleaning 
 
 ## 📌 Project Overview
 
@@ -49,19 +49,18 @@ The dataset contains customer information, including:
 
 ### Completeness Issues
 - Missing values in multiple columns.
-- Missing customer information.
 
 ### Validity Issues
 - Incorrect data types.
-- Negative values in Purchase Amount.
-- Age values stored as text (e.g., "25 years").
+- Negative values in `Purchase_Amount`.
+- Age values stored as text (e.g., `"25 years"`).
 
 ### Consistency Issues
-- Inconsistent values in Gender.
-- Different capitalization in City and Country names.
+- Inconsistent values in the `Gender` column.
+- Different capitalization in `City` and `Country` names.
 
 ### Accuracy Issues
-- Outliers detected in Purchase Amount and Age.
+- Outliers detected in `Purchase_Amount`.
 
 ### Uniqueness Issues
 - Duplicate rows.
@@ -69,28 +68,28 @@ The dataset contains customer information, including:
 
 ---
 
-## 🔧 Data Cleaning Steps
+## 🔧 Data Cleaning Process
 
 - Loaded and inspected the dataset.
-- Generated a Data Quality Report.
+- Performed a comprehensive Data Quality Report.
 - Handled missing values using appropriate techniques.
 - Removed duplicate records.
-- Standardized categorical values.
+- Standardized inconsistent categorical values.
 - Corrected data types.
 - Detected and handled outliers.
-- Compared the dataset before and after cleaning.
+- Generated a Before vs After summary.
 - Exported the cleaned dataset as a new CSV file.
 
 ---
 
 ## 📊 Key Results
 
-- Missing values handled successfully.
-- Duplicate rows removed.
-- Data types corrected.
-- Inconsistent values standardized.
-- Outliers treated.
-- Clean dataset exported for future analysis.
+- ✅ Missing values handled successfully.
+- ✅ Duplicate records removed.
+- ✅ Data types corrected.
+- ✅ Inconsistent values standardized.
+- ✅ Outliers detected and treated.
+- ✅ Clean dataset exported for future analysis.
 
 ---
 
@@ -101,7 +100,7 @@ DataAnalytics-L1-DataCleaning/
 │
 ├── Data_Cleaning.ipynb
 ├── messy_customer_data.csv
-├── cleaned_customers.csv
+├── cleaned_customer_data.csv
 ├── README.md
 └── images/
 ```
@@ -110,42 +109,36 @@ DataAnalytics-L1-DataCleaning/
 
 ## ▶️ How to Run
 
-1. Clone this repository.
+1. Clone this repository:
 
 ```bash
 git clone https://github.com/muhammad-ali-ds/OIBSIP.git
 ```
 
-2. Navigate to the project folder.
+2. Navigate to the project folder:
 
 ```bash
-cd DataAnalytics-L1-DataCleaning
+cd OIBSIP/DataAnalytics-L1-DataCleaning
 ```
 
-3. Install the required libraries.
+3. Install the required libraries:
 
 ```bash
 pip install pandas numpy matplotlib seaborn
 ```
 
-4. Open the Jupyter Notebook.
-
-```bash
-jupyter notebook
-```
-
-5. Run all cells to reproduce the cleaning process.
+4. Open the Jupyter Notebook and run all cells.
 
 ---
 
 ## 📌 Output
 
-The project generates:
+The project produces:
 
-- Cleaned dataset (`cleaned_customers.csv`)
+- Cleaned Dataset (`cleaned_customers.csv`)
 - Data Quality Report
 - Before vs After Summary
-- Data Cleaning Notebook
+- Clean and Well-Documented Jupyter Notebook
 
 ---
 
@@ -153,9 +146,11 @@ The project generates:
 
 **Muhammad Ali**
 
-GitHub: https://github.com/muhammad-ali-ds
+🐙 GitHub Repository:  
+https://github.com/muhammad-ali-ds/OIBSIP
 
-LinkedIn: https://www.linkedin.com/in/muhammad-ali-175691383
+💼 LinkedIn:  
+https://www.linkedin.com/in/muhammad-ali-175691383
 
 ---
 
